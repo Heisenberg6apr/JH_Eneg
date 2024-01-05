@@ -10,10 +10,10 @@ import json
 
 st.subheader('ROOFTOP SOLAR')
 
-with open("\UPdated from JREDA\jhnew.geojson") as f:
+with open("UPdated from JREDA\jhnew.geojson") as f:
     geojson_data = json.load(f)
 
-dfall = pd.read_csv("\UPdated from JREDA\All_Total.csv")
+dfall = pd.read_csv("UPdated from JREDA\All_Total.csv")
 
 # Function to customize tooltip
 def style_function(feature):
@@ -35,7 +35,7 @@ folium_static(m,width=600,height=400)
 
 
 
-dfSRFY=pd.read_csv("C:\UPdated from JREDA\All_Total.csv")
+dfSRFY=pd.read_csv("UPdated from JREDA\All_Total.csv")
 #Grid Connected Solar Rooftop Financial year wise counts in Jharkhand
 dfSRFY_sorted = dfSRFY.sort_values(by='PRIVATE_SOLAR_ROOFTOP(19-20)', ascending=True)
 fig1 = px.bar(dfSRFY_sorted, y='District', x=['PRIVATE_SOLAR_ROOFTOP(19-20)','PRIVATE_SOLAR_ROOFTOP(21-22)'],
