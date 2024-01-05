@@ -13,7 +13,7 @@ dfST=pd.read_excel("UPdated from JREDA/SSL compiled report.xlsx")
 
 
 
-with open("UPdated from JREDA/JHARKHANDSHAPEFILEGJ.geojson") as f:
+with open("UPdated from JREDA/jharkhand_merged.geojson") as f:
         geojson_data = json.load(f)
 
 
