@@ -8,12 +8,12 @@ from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
 import json
 
-dfST=pd.read_csv(r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\SSL compiled report.csv")
+dfST=pd.read_csv("UPdated from JREDA/SSL compiled report.xlsx")
 
 with open(r"C:\Users\sachi\OneDrive\Desktop\webapp\data\JHARKHANDSHAPEFILEGJ.geojson") as f:
     geojson_data = json.load(f)
 
-polygon_shapefile = r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\private owned solar rooftop\JHARKHAND_DISTRICT_BDY.shp"
+polygon_shapefile = "UPdated from JREDA\private owned solar rooftop\JHARKHAND_DISTRICT_BDY.shp"
 # Reading and converting to WGS84 CRS
 polygon_data = gpd.read_file(polygon_shapefile).to_crs(epsg=4326)
 
