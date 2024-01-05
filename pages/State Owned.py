@@ -10,8 +10,15 @@ import json
 
 dfST=pd.read_csv("UPdated from JREDA/SSL compiled report.xlsx")
 
-with open(r"C:\Users\sachi\OneDrive\Desktop\webapp\data\JHARKHANDSHAPEFILEGJ.geojson") as f:
-    geojson_data = json.load(f)
+
+try:
+    with open(r"C:\Users\sachi\OneDrive\Desktop\webapp\data\JHARKHANDSHAPEFILEGJ.geojson") as f:
+        geojson_data = json.load(f)
+    # Proceed with operations on geojson_data if file is successfully loaded
+except FileNotFoundError:
+    print("GeoJSON file not found. Please check the file path.")
+except Exception as e:
+    print(f"An error occurred: {e}")
 
 polygon_shapefile = "UPdated from JREDA\private owned solar rooftop\JHARKHAND_DISTRICT_BDY.shp"
 # Reading and converting to WGS84 CRS
