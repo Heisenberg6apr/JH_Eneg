@@ -13,11 +13,11 @@ dfST=pd.read_excel("UPdated from JREDA/SSL compiled report.xlsx")
 
 
 
-with open(r"C:\Users\sachi\OneDrive\Desktop\webapp\data\JHARKHANDSHAPEFILEGJ.geojson") as f:
+with open("UPdated from JREDA/JHARKHANDSHAPEFILEGJ.geojson") as f:
         geojson_data = json.load(f)
 
 
-polygon_shapefile = "UPdated from JREDA\private owned solar rooftop\JHARKHAND_DISTRICT_BDY.shp"
+polygon_shapefile = "UPdated from JREDA/private owned solar rooftop/JHARKHAND_DISTRICT_BDY.shp"
 # Reading and converting to WGS84 CRS
 polygon_data = gpd.read_file(polygon_shapefile).to_crs(epsg=4326)
 
@@ -49,7 +49,7 @@ folium.GeoJson(
 ).add_to(m)
 folium_static(m,width=600,height=400)
 
-dfSRFY=pd.read_csv(r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\FY_GSR_insatllations.csv")
+dfSRFY=pd.read_csv("UPdated from JREDA/FY_GSR_insatllations.csv")
 #Grid Connected Solar Rooftop Financial year wise counts in Jharkhand
 dfSRFY_sorted = dfSRFY.sort_values(by='2022-23', ascending=True)
 fig1 = px.bar(dfSRFY_sorted, y='Districts', x=['2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22', '2022-23'],
@@ -64,7 +64,7 @@ st.plotly_chart(fig1)
 
 
 
-dfGSRCAP=pd.read_csv(r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\FY_GSR_Capacity.csv")
+dfGSRCAP=pd.read_csv("UPdated from JREDA/FY_GSR_Capacity.csv")
 #Grid Connected Solar Rooftop Capacity in Jharkhand
 dfGSRCAP_sorted = dfGSRCAP.sort_values(by='2022-23', ascending=True)
 fig2 = px.bar(dfSRFY_sorted, y='Districts', x=['2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22', '2022-23'],
@@ -84,8 +84,8 @@ st.plotly_chart(fig2)
 # Mini_Grid _solar_Count and Capacity Plots
 st.header('MINI-GRID SOLAR')
 # Read the CSV data
-dfall = pd.read_csv(r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\All_Total.csv")
-df4mgs=pd.read_csv(r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\Solar_Minigrid.csv")
+dfall = pd.read_csv("UPdated from JREDA/All_Total.csv")
+df4mgs=pd.read_csv("UPdated from JREDA/Solar_Minigrid.csv")
 # Function to customize tooltip
 def style_function(feature):
     return {
@@ -155,7 +155,7 @@ st.plotly_chart(fig5)
 st.title('Solar Rooftop Locations in the State of Jharkhand')
 st.subheader('Goverment Hospitals installed solar panels')
 # Load GeoJSON file
-geojson_file = r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\Hospitals.geojson"
+geojson_file = "UPdated from JREDA/Hospitals.geojson"
 gdf = gpd.read_file(geojson_file)
 
 # Ensure the 'Category' column is treated as categorical
@@ -174,7 +174,7 @@ def style_function(feature):
         'fillOpacity': 0.4,
     }
 # Define a custom icon with color (e.g., red)
-#icon = folium.CustomIcon(icon_image=r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\icon.png", icon_size=(30, 30), icon_anchor=(15, 15), popup_anchor=(0, -15))
+#icon = folium.CustomIcon(icon_image="UPdated from JREDA/icon.png", icon_size=(30, 30), icon_anchor=(15, 15), popup_anchor=(0, -15))
 #icon = folium.Icon(color='red')
 # Iterate through GeoDataFrame rows and add markers
 for idx, row in gdf.iterrows():
@@ -182,7 +182,7 @@ for idx, row in gdf.iterrows():
     
     # Customize the icon size (adjust the icon_size parameter)
     icon_size = (2,2)  # Change the size according to your preference
-    icon = folium.CustomIcon(icon_image=r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\icon.png", icon_size=(30, 30), icon_anchor=(15, 15), popup_anchor=(0, -15))
+    icon = folium.CustomIcon(icon_image="UPdated from JREDA/icon.png", icon_size=(30, 30), icon_anchor=(15, 15), popup_anchor=(0, -15))
     folium.Marker(
         location=[row.geometry.centroid.y, row.geometry.centroid.x],
         popup=folium.Popup(popup_text, parse_html=True),
@@ -204,7 +204,7 @@ folium_static(m, width=700, height=500)
 st.subheader('Goverment Educational Institutions installed solar panels')
 
 # Load GeoJSON file
-geojson_file = r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\Educational_Instutions.geojson"
+geojson_file = "UPdated from JREDA/Educational_Instutions.geojson"
 gdf = gpd.read_file(geojson_file)
 # Ensure the 'Category' column is treated as categorical
 gdf['Category'] = gdf['Category'].astype('str')
@@ -247,7 +247,7 @@ folium_static(m, width=700, height=500)
 
 st.subheader('Goverment Miscellaneous Buildings installed solar panels')
 # Load GeoJSON file
-geojson_file = r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\Miscellaneous.geojson"
+geojson_file = "UPdated from JREDA/Miscellaneous.geojson"
 gdf = gpd.read_file(geojson_file)
 
 # Ensure the 'Category' column is treated as categorical
@@ -291,7 +291,7 @@ folium_static(m, width=700, height=500)
 
 st.subheader('Goverment Buildings installed solar panels')
 # Load GeoJSON file
-geojson_file = r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\Govt_buildings.geojson"
+geojson_file = "UPdated from JREDA/Govt_buildings.geojson"
 gdf = gpd.read_file(geojson_file)
 
 # Ensure the 'Category' column is treated as categorical
@@ -320,7 +320,7 @@ for idx, row in gdf.iterrows():
     popup_text = row['Location']
     
     # Customize the icon size (adjust the icon_size parameter)
-    #icon=r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\police logo.png"
+    #icon="UPdated from JREDA/police logo.png"
     icon_size = ()  # Change the size according to your preference
     folium.Marker(
         location=[row.geometry.y, row.geometry.x],
@@ -336,7 +336,7 @@ folium_static(m, width=700, height=500)
 
 st.subheader('Police Station installed solar panels')
 
-geojson_file =r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\Police stations.geojson"
+geojson_file ="UPdated from JREDA/Police stations.geojson"
 gdf = gpd.read_file(geojson_file)
 
 # Ensure the 'Category' column is treated as categorical
@@ -366,7 +366,7 @@ for idx, row in gdf.iterrows():
     popup_text = row['Location']
     
     # Customize the icon size (adjust the icon_size parameter)
-    #icon=r"C:\Users\sachi\OneDrive\Desktop\WEBAPPP\data\UPdated from JREDA\police logo.png"
+    #icon="UPdated from JREDA/police logo.png"
     icon_size = ()  # Change the size according to your preference
     folium.Marker(
         location=[row.geometry.y, row.geometry.x],
