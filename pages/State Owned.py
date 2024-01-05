@@ -7,6 +7,7 @@ import plotly.express as px
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
 import json
+import openpyxl
 
 dfST=pd.read_excel("UPdated from JREDA/SSL compiled report.xlsx")
 
