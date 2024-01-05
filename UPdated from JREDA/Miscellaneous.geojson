@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Miscellaneous",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "District": "Bokaro", "Latitude": 23.7736894, "Longitude": 85.91232525, "Location": "Dhori Mata Church, Bermo, Bokaro", "Block": "Bermo", "Capacity(In kWp)": 5, "Category": "Miscellaneous", "Financial Year": " FY 15-16" }, "geometry": { "type": "Point", "coordinates": [ 85.91232525, 23.7736894 ] } },
+{ "type": "Feature", "properties": { "District": "PashchimiSinghbhum", "Latitude": 22.93588283, "Longitude": 86.13493777, "Location": "Natural Demontration Centre, Makulakocha", "Block": null, "Capacity(In kWp)": 25, "Category": "Miscellaneous", "Financial Year": "FY19-20" }, "geometry": { "type": "Point", "coordinates": [ 86.13493777, 22.93588283 ] } },
+{ "type": "Feature", "properties": { "District": "Ranchi", "Latitude": 23.46334146, "Longitude": 85.4552279, "Location": "Machali Ghar Birsa Zoo, Ormanjhi Ranchi", "Block": null, "Capacity(In kWp)": 100, "Category": "Miscellaneous", "Financial Year": "FY19-20" }, "geometry": { "type": "Point", "coordinates": [ 85.4552279, 23.46334146 ] } },
+{ "type": "Feature", "properties": { "District": "Ranchi", "Latitude": 23.25485207, "Longitude": 85.3468934, "Location": "Biodiversity Park, Namkum Ranchi", "Block": null, "Capacity(In kWp)": 25, "Category": "Miscellaneous", "Financial Year": "FY19-20" }, "geometry": { "type": "Point", "coordinates": [ 85.3468934, 23.25485207 ] } },
+{ "type": "Feature", "properties": { "District": "Dumka", "Latitude": 24.26063028, "Longitude": 87.23212742, "Location": "Observation Home, Dumka", "Block": null, "Capacity(In kWp)": 10, "Category": "Miscellaneous", "Financial Year": "FY 20-21" }, "geometry": { "type": "Point", "coordinates": [ 87.23212742, 24.26063028 ] } },
+{ "type": "Feature", "properties": { "District": "Palamu", "Latitude": 24.04801203, "Longitude": 84.06829275, "Location": "Child Observation Home, Palamu", "Block": null, "Capacity(In kWp)": 10, "Category": "Miscellaneous", "Financial Year": "FY 20-21" }, "geometry": { "type": "Point", "coordinates": [ 84.06829275, 24.04801203 ] } },
+{ "type": "Feature", "properties": { "District": "Simdega", "Latitude": 22.61241458, "Longitude": 84.48559772, "Location": "Observation Home Simdega", "Block": null, "Capacity(In kWp)": 10, "Category": "Miscellaneous", "Financial Year": "FY 20-21" }, "geometry": { "type": "Point", "coordinates": [ 84.48559772, 22.61241458 ] } },
+{ "type": "Feature", "properties": { "District": "Simdega", "Latitude": 22.61323154, "Longitude": 84.50036145, "Location": "Veer Budh Shelter Home,Simdega", "Block": null, "Capacity(In kWp)": 10, "Category": "Miscellaneous", "Financial Year": "FY 20-21" }, "geometry": { "type": "Point", "coordinates": [ 84.50036145, 22.61323154 ] } },
+{ "type": "Feature", "properties": { "District": "Ranchi", "Latitude": 23.36247955, "Longitude": 85.79660237, "Location": "FRU, Silli, Ranchi", "Block": null, "Capacity(In kWp)": 10, "Category": "Miscellaneous", "Financial Year": "FY 20-21" }, "geometry": { "type": "Point", "coordinates": [ 85.79660237, 23.36247955 ] } }
+]
+}

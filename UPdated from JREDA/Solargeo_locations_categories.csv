@@ -1,0 +1,1278 @@
+District,Latitude,Longitude,Location,Block,Capacity(In kWp),Category,Financial Year
+Bokaro,23.758198,85.930047,"Community Health Centre, Bermo, Bokaro",Bermo,20,Hospital, FY 15-16
+Bokaro,23.7736894,85.91232525,"Dhori Mata Church, Bermo, Bokaro",Bermo,5,Miscellaneous, FY 15-16
+Bokaro,23.66316699,86.01474665,"Referral Hospital, Jainamore, Bokaro",Bokaro,10,Hospital, FY 15-16
+Bokaro,23.64099316,86.15972487,"Sadar Hospital,Bokaro",Bokaro,125,Hospital, FY 15-16
+Chatra,24.07757751,84.74565347,"Residencial High School, Lawalong, Simariya",Simariya,10,Educational Institution, FY 15-16
+Chatra,24.2961076,84.63716322,"Residencial Primary School, Pratapur",Pratapur,10,Educational Institution, FY 15-16
+Chatra,24.21292386,84.86116324,"Mandal Jail,Chatra",Chatra,15,Govt. Buildings, FY 15-16
+Deoghar,24.49102496,86.6939185,Sadar Hospital,Deoghar,60,Hospital, FY 15-16
+Dhanbad,23.79667309,86.4349162,Collectorate building,Dhanbad,80,Govt. Buildings, FY 15-16
+Dhanbad,23.8099597,86.46346128,PMCH,Dhanbad,200,Govt. Buildings, FY 15-16
+Dumka,24.23303832,87.3364959,"Eklabya Model Residential  School, Kathijoria",Shikaripara,10,Educational Institution, FY 15-16
+Dumka,24.26650106,87.25227339,"Central Jail, Dumka",Dumka,25,Govt. Buildings, FY 15-16
+Dumka,24.26166663,87.24996856,Dumka Commissionery,Dumka,25,Govt. Buildings, FY 15-16
+Dumka,24.35057415,87.14624805,"Primary Health Centre, Jama",Jama,5,Hospital, FY 15-16
+Dumka,24.2727458,87.23798502,"Residential Boys High School, Gopikander, Dumka",Gopikander,10,Educational Institution, FY 15-16
+Dumka,24.23068827,87.33390627,"Residential Girls High School, Lakhikund Kadaharbil",Dumka ,10,Educational Institution, FY 15-16
+Dumka,24.26774674,87.25173407,"Sadar Hospital, Dumka",Dumka,60,Hospital, FY 15-16
+Dumka,24.20356603,87.36732107,"Residential 10+2 School,Indarbani",Shikaripara,10,Educational Institution, FY 15-16
+PashchimiSinghbhum,22.84513081,86.23243569,"MGM Medical College, Jamshedpur",Jamshedpur ,250,Educational Institution, FY 15-16
+PashchimiSinghbhum,22.56409703,86.32832271,"Residencial Boys High School, Sabar Nagar",Potka ,10,Educational Institution, FY 15-16
+PashchimiSinghbhum,22.7589348,86.20139453,Sadar Hospital,Jamshedpur ,80,Hospital, FY 15-16
+PashchimiSinghbhum,22.56951786,86.49609934,Sub Jail Ghatshila,Ghatshila,15,Govt. Buildings, FY 15-16
+Garhwa,24.16171861,83.790157,"Collectorate Building, Garhwa",Garhwa,60,Govt. Buildings, FY 15-16
+Garhwa,24.15860108,83.78875767,"District Court, Garhwa",Garhwa,110,Govt. Buildings, FY 15-16
+Garhwa,23.88636354,83.7722618,"Residencial Boys High School, Kudrum, Ranka",Ranka,10,Educational Institution, FY 15-16
+Garhwa,23.85904634,83.8746848,"Residencial High School, Ramkanda",Ramkanda,10,Educational Institution, FY 15-16
+Garhwa,24.15917246,83.78978588,"Mandal Jail,Garhwa",Garhwa,20,Govt. Buildings, FY 15-16
+Garhwa,24.1585627,83.80179408,"Sadar Hospital,Garhwa",Garhwa,60,Hospital, FY 15-16
+Giridih,24.32660916,83.43070584,"Residential high school,Jamua",Jamua,10,Educational Institution, FY 15-16
+Giridih,24.49476634,83.84090439,"Residential high school,Khargdiha",Jamua,10,Educational Institution, FY 15-16
+Giridih,24.04272097,86.16003782,"Residential high school,Pirtand",Pirtand ,10,Educational Institution, FY 15-16
+Godda,24.24053414,86.54332801,"Residential boys high school,Dhamni,Godda ",Sunderpahari,10,Educational Institution, FY 15-16
+Godda,24.82434334,87.21529506,"Sadar Hospital,Godda",Godda,60,Hospital, FY 15-16
+Gumla,23.03485246,84.53815818,Sadar Hospital Gumla,Gumla ,60,Hospital, FY 15-16
+Hazaribag,23.99736176,85.36588834,Hazaribag Commissionery,,10,Govt. Buildings, FY 15-16
+Hazaribag,23.99753481,85.35633922,Sadar Hospital Hazaribag,,150,Hospital, FY 15-16
+Hazaribag,24.0189355,85.35937776,"Central Jail,Hazaribag",,35,Govt. Buildings, FY 15-16
+Jamtara,23.96896887,86.82320685,"Ashram School, Jamtara",,5,Educational Institution, FY 15-16
+Jamtara,23.96161429,86.79673926,Mandal Jail Jamtara,,20,Govt. Buildings, FY 15-16
+Jamtara,23.9696709,86.82330985,"Ashram Girls School,Jamtara",,10,Educational Institution, FY 15-16
+Jamtara,23.9557324,86.77800489,"Residential high school,Dulladih,Jamtara",,10,Educational Institution, FY 15-16
+Jamtara,23.98209386,86.82365829,"Sadar Hospital,Jamtara",,60,Hospital, FY 15-16
+Khunti,23.05673328,85.28695359,"Civil Court, Khunti",,180,Govt. Buildings, FY 15-16
+Khunti,23.05997514,85.28797092,Sub  Jail Khunti,,15,Govt. Buildings, FY 15-16
+Kodarma,24.48356759,85.59669399,"Sadar Hospital ,Kodarma",,80,Hospital, FY 15-16
+Latehar,23.66518771,84.23524188,"Residencial Boys High School, Garu, Latehar",,10,Educational Institution, FY 15-16
+Latehar,23.7425484,84.50868476,"Mandal jail,Latehar",,15,Govt. Buildings, FY 15-16
+Latehar,23.74346104,84.50826263,"Sadar Hospital,Latehar",,60,Hospital, FY 15-16
+Lohardaga,23.51898031,84.66738863,"Residential High school,Kisko,Lohardaga",,10,Educational Institution, FY 15-16
+Pakur,24.63646661,87.81007394,"DC Office, Pakur",,20,Govt. Buildings, FY 15-16
+Pakur,24.63754897,87.83683203,"Sadar Hospital, Pakur",,60,Hospital, FY 15-16
+Pakur,24.72002124,87.71029868,"Residential high school,Hiranpur,Pakur",,10,Educational Institution, FY 15-16
+Palamu,23.67477453,84.23658515,"Forest Rest House Maromar, Palamu",,5,Govt. Buildings, FY 15-16
+Palamu,24.50915586,84.25155073,"Residencial High School, Kawakhoh, Palamu",,10,Educational Institution, FY 15-16
+Palamu,24.04496465,84.06007421,"Sadar Hospital, Daltenganj",,80,Hospital, FY 15-16
+Palamu,24.04487056,84.06596173,"Central jail,Medininagar,Palamu",,35,Govt. Buildings, FY 15-16
+Ramgarh,23.59690791,85.53493095,Sadar Hospital Ramgarh,,100,Hospital, FY 15-16
+Ramgarh,23.61158538,85.52334519,"DC office, Ramgarh",,70,Govt. Buildings, FY 15-16
+Ramgarh,23.59920128,85.57410803,"Sub Jail,Ramgarh",,20,Govt. Buildings, FY 15-16
+Ranchi,23.38383392,85.31803288,"ATI Building, Ranchi",,100,Govt. Buildings, FY 15-16
+Ranchi,23.37319094,85.39114584,Birsa Munda Central Jail Hotwar,,35,Govt. Buildings, FY 15-16
+Ranchi,23.34346318,85.33351277,"JAP-1, Doranda, Ranchi",,5,Hospital, FY 15-16
+Ranchi,23.37429084,85.39327116,JAP-10,,60,Hospital, FY 15-16
+Ranchi,23.33772245,85.33392393,"JREDA Office, Ranchi",,15,Govt. Buildings, FY 15-16
+Ranchi,23.29689461,85.30016218,"Police Headquarters, Ranchi",,70,Police Station, FY 15-16
+Ranchi,23.2956654,85.29278813,"Project Buildings, Ranchi",,135,Govt. Buildings, FY 15-16
+Ranchi,23.37840202,85.32357271,"Ranchi Collectorate, Ranchi",,100,Govt. Buildings, FY 15-16
+Ranchi,23.3778044,85.3252143,"Ranchi Commissionery , Ranchi",,5,Govt. Buildings, FY 15-16
+Ranchi,23.39123457,85.34874,"RIMS, Ranchi ",,400,Hospital, FY 15-16
+Ranchi,23.38721549,85.32417816,"State Guest House, Ranchi",,60,Govt. Buildings, FY 15-16
+Ranchi,23.32464194,85.27092417,"Vidhan Sabha, Ranchi ",,50,Govt. Buildings, FY 15-16
+Ranchi,23.34127322,85.33103785,"Yojna Bhawan & Nepal House , Ranchi",,200,Govt. Buildings, FY 15-16
+Ranchi,23.43408429,85.31334944,"RINPASS,Ranchi",,150,Hospital, FY 15-16
+Sahibganj,25.22785784,87.64631291,"District Court, Sahebganj",,90,Govt. Buildings, FY 15-16
+Sahibganj,25.23605709,87.63417544,"Sadar Hospital, Sahebganj",,70,Hospital, FY 15-16
+Sahibganj,25.24039714,87.64589123,"Residential boys high school,Banjhi,Sahebganj",,10,Educational Institution, FY 15-16
+SaraikelaKharsawan,22.8491563,85.73166103,Ahram School Kuchai,,10,Educational Institution, FY 15-16
+SaraikelaKharsawan,22.7116144,85.93951805,"Residencial Boys High School, Sanjay Saraikela",,10,Educational Institution, FY 15-16
+Simdega,22.6127122,84.49872596,"DC Office, Simdega",,60,Govt. Buildings, FY 15-16
+Simdega,22.61140425,84.50048708,"District Court, Simdega",,100,Govt. Buildings, FY 15-16
+Simdega,22.61366599,84.49206076,Mandal Jail Simdega,,15,Govt. Buildings, FY 15-16
+purbaSinghbhum,22.55363284,85.80827826,Mandal Jail Chaibasa,,20,Govt. Buildings, FY 15-16
+purbaSinghbhum,22.77645758,85.35928851,"Residencial Boys High School, Kundrugutu, purba Singhbhum",,10,Educational Institution, FY 15-16
+Bokaro,23.68099145,86.14969473,"Nyay Sadan,Civil Court,Bokaro",,40,Govt. Buildings,FY 16-17
+Bokaro,23.62707175,86.17684767,"Range Forest Office, Chas Bokaro",,2,Govt. Buildings,FY 16-17
+Bokaro,23.62317757,86.17917601,"Range Forest Office, Petarwar Bokaro",,2,Govt. Buildings,FY 16-17
+Bokaro,23.77662719,85.93020727,"Range Forest Office, Bermo Bokaro",,2,Govt. Buildings,FY 16-17
+Bokaro,23.57013356,86.37486723,KGBV CHANDANKIYARI,,20,Educational Institution,FY 16-17
+Bokaro,23.61526959,86.18140842,KGBV CHAS,,20,Educational Institution,FY 16-17
+Bokaro,23.75049425,85.83524935,KGBV GOMIA,,20,Educational Institution,FY 16-17
+Bokaro,23.66224576,85.97923643,KGBV JARIDIH,,20,Educational Institution,FY 16-17
+Bokaro,23.65208621,85.92858132,KGBV KASMAR,,20,Educational Institution,FY 16-17
+Bokaro,23.85324771,86.04570197,KGBV NAWADIH,,20,Educational Institution,FY 16-17
+Bokaro,23.73373529,85.85722632,KGBV PETARWAR,,20,Educational Institution,FY 16-17
+Chatra,24.20740457,84.87211386,KGBV CHATRA,,20,Educational Institution,FY 16-17
+Chatra,24.1854215,85.0247146,KGBV GIDHOR,,20,Educational Institution,FY 16-17
+Chatra,24.43557849,84.81463953,KGBV HUNTERGANJ,,20,Educational Institution,FY 16-17
+Chatra,24.32262419,85.17996883,KGBV ITKHORI,,20,Educational Institution,FY 16-17
+Chatra,24.20879214,84.64726089,KGBV KUNDA,,20,Educational Institution,FY 16-17
+Chatra,24.14943034,84.66109067,KGBV LAWALONG,,20,Educational Institution,FY 16-17
+Chatra,24.12771218,85.06318842,KGBV PATTHALGADA,,20,Educational Institution,FY 16-17
+Chatra,23.48712732,83.21006258,KGBV PRATAPPUR,,20,Educational Institution,FY 16-17
+Chatra,24.05145155,84.93289142,KGAV SIMARIA,,20,Educational Institution,FY 16-17
+Chatra,23.86086573,85.01120298,KGBV TANDWA,,20,Educational Institution,FY 16-17
+Chatra,24.0603219,84.94575037,"Residential High School, Simariya",,10,Educational Institution,FY 16-17
+Chatra,23.85784447,85.21939628,"Range Forest Office, Wildlife Range Chatra",,2,Govt. Buildings,FY 16-17
+Chatra,24.05071284,84.93289735,"Residential Primary School, Simariya, Chatra",,10,Educational Institution,FY 16-17
+Chatra,24.4363041,84.81112589,"Residential Primary School, Hunterganj, Chatra",,10,Educational Institution,FY 16-17
+Chatra,24.20812258,84.65264377,"Range Forest Office, Kunda, Chatra",,2,Govt. Buildings,FY 16-17
+Chatra,24.29394215,84.63681262,"Range Forest Office, Pratapur, Chatra",,2,Govt. Buildings,FY 16-17
+Chatra,24.21031135,84.88399163,"Civil Courts, Chatra",,100,Govt. Buildings,FY 16-17
+Chatra,23.82560362,84.80398238,"Residential Primary School, Balumath.",,10,Educational Institution,FY 16-17
+Deoghar,24.48258258,86.67705623,"Range Forest Office, Soil Conservation Range Deoghar",,2,Govt. Buildings,FY 16-17
+Deoghar,24.28934604,86.63946928,"Range Forest Office, Soil Conservation Range Madhupur",,2,Govt. Buildings,FY 16-17
+Deoghar,24.41086824,86.96139581,KGBV DEOGHAR,,20,Educational Institution,FY 16-17
+Deoghar,24.29416669,86.63831226,KGBV MADHUPUR,,20,Educational Institution,FY 16-17
+Deoghar,24.56412352,86.81270625,KGBV  MOHANPUR,,20,Educational Institution,FY 16-17
+Deoghar,24.24648875,87.0068966,KGBV PALOJORI,,20,Educational Institution,FY 16-17
+Deoghar,24.23898637,86.85629784,KGBV SARATH,,20,Educational Institution,FY 16-17
+Deoghar,24.39316033,86.7840642,KGBV  SARWAN,,20,Educational Institution,FY 16-17
+Deoghar,24.29416282,86.88084503,"Residential Middle School, Bamandiha.",,10,Educational Institution,FY 16-17
+Dhanbad,23.88116495,86.3520172,"Range Forest Office, Topchachi, Dhanbad",,2,Govt. Buildings,FY 16-17
+Dhanbad,23.98905972,86.45314026,"Range Forest Office, Tundi, Dhanbad",,2,Govt. Buildings,FY 16-17
+Dhanbad,23.83495875,86.42576883,KGBV Baliapur,,20,Educational Institution,FY 16-17
+Dhanbad,23.81509129,86.55638047,KGBV Govindpur,,20,Educational Institution,FY 16-17
+Dhanbad,23.68861776,86.40038922,KGBV Jharia,,20,Educational Institution,FY 16-17
+Dhanbad,23.78949951,86.67782643,KGBV Nirsa,,20,Educational Institution,FY 16-17
+Dhanbad,23.90069073,86.21080184,KGBV Topchanchi,,20,Educational Institution,FY 16-17
+Dhanbad,23.99542285,86.45217924,KGBV Tundi,,20,Educational Institution,FY 16-17
+Dumka,24.21092963,84.88416778,"Civil Courts, Chatra",,10,Govt. Buildings,FY 16-17
+Dumka,24.228662,87.27271588,"Residential Middle School,Asansol,Aerodrum Road,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.27704233,87.26410745,"Residential Middle School,Kairabuni,University Road ,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.28207408,87.27595013,"Residential Middle School,Uper Murga Thali,Near Kairabani,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.23948783,87.47618267,"Residential Middle School,shikaripara,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.39328471,87.05408947,"Residential MiddleSchool,Mahra,Jharmundi Block,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.15873231,87.18037455,"Residential Middle School,Masliya Block,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.150743,87.43800284," School, Gumapahadi,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.35003961,87.14828359,"Residential Middle School, Jama,Dumka",,10,Educational Institution,FY 16-17
+Dumka,24.29647455,87.28133017,"Residential Middle School, Nakti,Dumka",,10,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.50530328,86.71242407,K G B V CHAKULIA,,20,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.46369825,86.58646549,K G B V DHALBHUMGARH,,20,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.47823881,86.38853631,K G B V DUMARIA,,20,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.65105327,86.39966236,K G B V GHATSHILA,,20,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.77064696,86.16143289,K G B V JAMSHEDPUR,,20,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.60591317,86.48915862,"Residential Boys High School, Uparpawada, Ghatshila.",,10,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.90503288,86.11515253,"Residential Boys Middle School, Chakuliya.",,10,Educational Institution,FY 16-17
+PashchimiSinghbhum,22.47017186,86.72063249,"Range Forest Office, Chakulia",,2,Govt. Buildings,FY 16-17
+PashchimiSinghbhum,22.66027492,86.37730872,"Range Forest Office, Rakhamines",,2,Govt. Buildings,FY 16-17
+PashchimiSinghbhum,22.59875614,86.47255976,"Range Forest Office, Ghatshila",,2,Govt. Buildings,FY 16-17
+PashchimiSinghbhum,22.52973704,86.45325509,"Range Forest Office, Musabani",,2,Govt. Buildings,FY 16-17
+PashchimiSinghbhum,22.26968586,85.74170301,"Range Forest Office, Hatgamharia",,2,Govt. Buildings,FY 16-17
+PashchimiSinghbhum,22.83159471,86.21374649,"Range Forest Office, Dalma Wild Life",,2,Govt. Buildings,FY 16-17
+Garhwa,24.05967652,83.63160759,"Residential High School, Chiniya, Garhwa",,10,Educational Institution,FY 16-17
+Garhwa,23.86362079,83.87522542,"Residential Middle School, Ramkanda, Garhwa",,10,Educational Institution,FY 16-17
+Garhwa,23.6690273,85.64907676,"Range Forest Office, Nagar Garhwa",,2,Govt. Buildings,FY 16-17
+Garhwa,24.39619913,83.57547575,"Range Forest Office, Bhawnathpur Garhwa",,2,Govt. Buildings,FY 16-17
+Garhwa,23.73770663,83.81631273,KGBV BHANDRIYA,,20,Educational Institution,FY 16-17
+Garhwa,24.392525,83.57173971,KGBV BHAWANATHPUR,,20,Educational Institution,FY 16-17
+Garhwa,24.03361176,83.61028055,KGBV CHINIA,,20,Educational Institution,FY 16-17
+Garhwa,24.14916062,83.44952533,KGBV DHURKI,,20,Educational Institution,FY 16-17
+Garhwa,24.15026808,83.82367161,KGBV GARHWA,,20,Educational Institution,FY 16-17
+Garhwa,24.48343177,83.76801085,KGBV KANDI,,20,Educational Institution,FY 16-17
+Garhwa,24.44680585,83.46877117,KGBV KHAROUNDHI,,20,Educational Institution,FY 16-17
+Garhwa,24.32301901,83.8123394,KGBV MANJHIAON,,20,Educational Institution,FY 16-17
+Garhwa,24.18397164,83.70981633,KGBV MERAL,,20,Educational Institution,FY 16-17
+Garhwa,23.86668515,83.87379296,KGBV RAMKANDA,,20,Educational Institution,FY 16-17
+Garhwa,24.23726195,83.59106183,KGBV RAMNA,,20,Educational Institution,FY 16-17
+Garhwa,23.99355176,83.78893281,KGBV RANKA,,20,Educational Institution,FY 16-17
+Giridih,24.08664233,85.794695,"Range Forest Office, Bagodar",,2,Govt. Buildings,FY 16-17
+Giridih,24.18952363,86.30626599,"Sadar Hospital, Giridih",,70,Hospital,FY 16-17
+Giridih,24.04930719,86.16306033,"Range Forest Office, Parasnath Giridih",,2,Govt. Buildings,FY 16-17
+Giridih,24.00029728,85.999392,"Range Forest Office, Dumari Giridih",,2,Govt. Buildings,FY 16-17
+Godda,24.79933513,87.21147199,"Divisional Forest Office, Godda",,2,Govt. Buildings,FY 16-17
+Gumla,24.94993553,87.1681495,"Primary Residential School, Maheshpur, Chainpur",,10,Educational Institution,FY 16-17
+Gumla,22.87711937,84.64854328,"Range Forest Office, Palkot Wild Sanctury Gumla",,2,Govt. Buildings,FY 16-17
+Hazaribag,24.00185206,85.36347137,"Residential 10+2 School, Hazaribag. ",,10,Educational Institution,FY 16-17
+Hazaribag,24.00627527,85.37988356,"Primary Residential School, Saral Sinchai colony, Dipugarha",,10,Educational Institution,FY 16-17
+Hazaribag,23.9863352,85.36912708,"Range Forest Office, Daru",,2,Govt. Buildings,FY 16-17
+Hazaribag,24.23933999,85.50258813,K.G.B.V. BARHI,,20,Educational Institution,FY 16-17
+Hazaribag,23.84245882,85.24711849,K.G.B.V. BARKAGAON,,20,Educational Institution,FY 16-17
+Hazaribag,24.16855448,85.60560621,K.G.B.V. BARKATHA,,20,Educational Institution,FY 16-17
+Hazaribag,24.0334425,85.73296734,"K.G.B.V., BISHNUGARH",,20,Educational Institution,FY 16-17
+Hazaribag,23.84973808,85.44689409,K.G.B.V. CHARHI (CHURCHU),,20,Educational Institution,FY 16-17
+Hazaribag,24.11244264,85.2034047,K.G.B.V. KATKAMSANDI,,20,Educational Institution,FY 16-17
+Hazaribag,24.20669319,85.3572377,K.G.B.V. PADMA,,20,Educational Institution,FY 16-17
+Jamtara,23.96938659,86.79072618,"Civil Courts, Jamtara",,100,Govt. Buildings,FY 16-17
+Jamtara,23.97563776,87.15601317,"Range Forest Office, Kundhit Jamtara",,2,Govt. Buildings,FY 16-17
+Jamtara,23.91649573,87.04301084,"Range Forest Office, Nala Jamtara",,2,Govt. Buildings,FY 16-17
+Jamtara,24.07688759,86.60821174,"Range Forest Office, Narayanpur Jamtara",,2,Govt. Buildings,FY 16-17
+Jamtara,23.95058919,86.76924033,KGBV Jamtara,,20,Educational Institution,FY 16-17
+Jamtara,23.9963584,87.11060053,KGBV Kundhit,,20,Educational Institution,FY 16-17
+Jamtara,23.93065562,87.01337505,KGBV Nala,,20,Educational Institution,FY 16-17
+Jamtara,24.06052632,86.62069588,KGBV Narayanpur,,20,Educational Institution,FY 16-17
+Jamtara,23.97118439,87.16310389,"Residential Middle School, Kundhit.",,10,Educational Institution,FY 16-17
+Khunti,23.00188288,85.53664165,"Residential High School, Arki",,10,Educational Institution,FY 16-17
+Kodarma,24.47846058,85.59599002,"Civil Courts, Kodarma",,100,Govt. Buildings,FY 16-17
+Latehar,23.88725609,84.19403551,"Primary Residential School, Betla",,10,Educational Institution,FY 16-17
+Latehar,23.75578073,84.35415737,"Primary Residential School, Netarhat",,10,Educational Institution,FY 16-17
+Latehar,23.74330142,84.51009424,"Civil Courts, Latehar",,100,Govt. Buildings,FY 16-17
+Latehar,23.86884925,84.36027794,"Range Forest Office, Manika Latehar",,2,Govt. Buildings,FY 16-17
+Latehar,23.73148933,84.47180178,"Range Forest Office, Richughuta Latehar",,2,Govt. Buildings,FY 16-17
+Latehar,23.67112036,84.73422929,"Range Forest Office, Chandwa Latehar",,2,Govt. Buildings,FY 16-17
+Latehar,23.82823057,84.79019025,"Range Forest Office, Balumath Latehar",,2,Govt. Buildings,FY 16-17
+Latehar,23.66524986,84.23542541,"Residential Primary School, Garu.",,10,Educational Institution,FY 16-17
+Lohardaga,23.44312031,84.68544978,KGBV LOHARDAGA,,20,Educational Institution,FY 16-17
+Lohardaga,23.44189789,84.68527187,"Sadar Hospital, Lohardaga",,30,Hospital,FY 16-17
+Lohardaga,23.65198779,84.56146881,"Residential Middle School, Paisrar.",,10,Educational Institution,FY 16-17
+Lohardaga,23.41859646,84.69237809,"Residential Girls Middle School, Lohardaga.",,10,Educational Institution,FY 16-17
+Pakur,24.63126828,87.82472304,"Range Forest Office, Pakur",,2,Govt. Buildings,FY 16-17
+Pakur,24.6303318,87.82017658,"Range Forest Office, Hiranpur Pakur",,2,Govt. Buildings,FY 16-17
+Pakur,24.6297188,87.82050919,"Range Forest Office, Amarapara Pakur",,2,Govt. Buildings,FY 16-17
+Pakur,24.58461683,87.53259155,KGBV AMRAPARA,,20,Educational Institution,FY 16-17
+Pakur,24.69007238,87.61811237,KGBV LITTIPARA,,20,Educational Institution,FY 16-17
+Pakur,24.48651041,87.66429695,KGBV MAHESHPUR,,20,Educational Institution,FY 16-17
+Pakur,24.63625553,87.84994123,KGBV PAKUR,,20,Educational Institution,FY 16-17
+Pakur,24.32652093,87.7073178,KGBV PAKURIA,,20,Educational Institution,FY 16-17
+Palamu,23.40011065,84.10523205,"Range Forest Office, Mahuatand, Palamu",,2,Govt. Buildings,FY 16-17
+Palamu,24.22046124,84.39963902,"Range Forest Office, Manatu",,2,Govt. Buildings,FY 16-17
+Ramgarh,23.63219774,85.53555885,"KGBV KAITHA, Ramgarh",,20,Educational Institution,FY 16-17
+Ramgarh,23.63229739,85.53572372,"KGBV GOLA, Ramgarh",,20,Educational Institution,FY 16-17
+Ramgarh,23.81118628,85.46634583,"KGBV MANDU, Ramgarh",,20,Educational Institution,FY 16-17
+Ramgarh,23.62142741,85.47169267,"KGBV Patratu(BARKAKANA), Ramgarh",,20,Educational Institution,FY 16-17
+Ramgarh,23.6328552,85.51353824,"Range Forest Office, Gola Ramgarh",,2,Govt. Buildings,FY 16-17
+Ramgarh,23.80958043,85.47061521,"Residential Boys High School, Mandu, Ramgarh",,10,Educational Institution,FY 16-17
+Ramgarh,23.53697963,85.71524992,"Residential Girls Middle School, Gola, Ramgarh",,10,Educational Institution,FY 16-17
+Ramgarh,23.61074525,85.56883841,"Civil Courts, Ramgarh",,100,Govt. Buildings,FY 16-17
+Ranchi,23.17576385,85.57964684,"Residential High School, Bundu",,10,Educational Institution,FY 16-17
+Ranchi,23.43397037,85.32114523,KGBV KANKE,,20,Educational Institution,FY 16-17
+Ranchi,23.37251965,85.79895311,"KGBV SILLI, Ranchi",,20,Educational Institution,FY 16-17
+Ranchi,23.08296512,85.64071234,"Eklavya Model Residential School, Salgahdih, Tamar, Ranchi",,10,Educational Institution,FY 16-17
+Ranchi,23.37446627,85.33096075,"Residential 10+2 School, Jail Road, Ranchi",,10,Educational Institution,FY 16-17
+Ranchi,23.47223817,85.06414832,KGBV MANDAR,,20,Educational Institution,FY 16-17
+Ranchi,23.24072155,85.5642675,"Residential Boys Middle School, Amanburu, Ranchi",,10,Educational Institution,FY 16-17
+Ranchi,23.51961787,85.55457846,"Range Forest Office, Mutta Crocodile Breeding Centre Ranchi",,2,Govt. Buildings,FY 16-17
+Ranchi,23.42225195,85.23748038,KGBV CHANHO,,20,Educational Institution,FY 16-17
+Ranchi,23.57352987,85.13180384,KGBV BURMU,,20,Educational Institution,FY 16-17
+Ranchi,23.19358778,85.70698092,KGBV SONAHATU,,20,Educational Institution,FY 16-17
+Ranchi,23.09716501,84.95868822,KGBV LAPUNG,,20,Educational Institution,FY 16-17
+Ranchi,23.30420381,85.01743586,"Residential Boys High School, Sonchipi, Ranchi",,10,Educational Institution,FY 16-17
+Ranchi,23.29279858,84.9996834,"Residential Boys High School, Baridih, Ranchi",,10,Educational Institution,FY 16-17
+Ranchi,23.40522707,85.48523875,KGBV ANGARA,,20,Educational Institution,FY 16-17
+Ranchi,23.30517747,85.01800516,KGBV BERO,,20,Educational Institution,FY 16-17
+Ranchi,23.1552366,85.58185861,KGBV BUNDU,,20,Educational Institution,FY 16-17
+Ranchi,23.08329198,85.64427593,KGBV TAMAR,,20,Educational Institution,FY 16-17
+Ranchi,23.25219139,85.45486464,KGBV NAMKUM,,20,Educational Institution,FY 16-17
+Ranchi,23.48024596,85.47549971,KGBV ORMANJHI,,20,Educational Institution,FY 16-17
+Ranchi,23.16049249,85.63088954,"Birsa Munda Residential Boys High School, Bundu.",,10,Educational Institution,FY 16-17
+Sahibganj,25.22424504,87.62274686,"Primary Residential School, Karampahad, Sahibganj",,10,Educational Institution,FY 16-17
+SaraikelaKharsawan,22.71043072,85.943353,"Range Forest Offices, Saraikela",,2,Govt. Buildings,FY 16-17
+SaraikelaKharsawan,22.70359766,85.92895657,"Range Forest Offices, Saraikela",,2,Govt. Buildings,FY 16-17
+SaraikelaKharsawan,22.70287357,85.92832768,"Sadar Hospital, Saraikela",,30,Hospital,FY 16-17
+purbaSinghbhum,22.529165,85.81101648,"Residential Girls High School, Chaibasa.",,10,Educational Institution,FY 16-17
+purbaSinghbhum,22.23689645,85.30620979,"Residential Middle School, Chhotanagara",,10,Educational Institution,FY 16-17
+purbaSinghbhum,22.50324254,85.37738046,"Residential Primary School, Goyalkera",,10,Educational Institution,FY 16-17
+purbaSinghbhum,22.635987,86.22022814,KGBV POTKA,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.95997111,86.41115201,KGBV PATAMDA,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.8615346,85.34049831,KGBV BANDGAON,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.43078232,85.77178548,KGBV JHINKPANI,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.70583538,85.81376908,KGBV KHUNTPANI,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.09034254,85.87599065,KGBV MAJHGAON,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.33356319,85.96258207,KGBV MANJHARI,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.15810685,85.50937715,KGBV NOAMUNDI,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.55948319,85.81633594,KGBV SADAR CHAIBASA,,20,Hospital,FY 16-17
+purbaSinghbhum,22.27814653,86.71018384,K G B V BAHRAGORA,,20,Educational Institution,FY 16-17
+purbaSinghbhum,22.62340087,86.22206919,"Residential Boys Middle School, Bhabernagar, Potka.",,10,Educational Institution,FY 16-17
+purbaSinghbhum,22.36527013,86.58475352,"Residential Boys Middle School, Singhpura, Lalkota.",,10,Educational Institution,FY 16-17
+purbaSinghbhum,22.55003356,85.79839357,"Range Forest Office, Chaibasa",,2,Govt. Buildings,FY 16-17
+purbaSinghbhum,22.6815282,85.61409532,"Range Forest Office, Songara, Chakradharpur",,2,Govt. Buildings,FY 16-17
+purbaSinghbhum,22.68183161,85.6138841,"Range Forest Office, Kera, Chakradharpur",,2,Govt. Buildings,FY 16-17
+Bokaro,23.83623093,86.04206954,CHC Navadih,,10,Hospital,FY 17-18
+Bokaro,23.80105072,85.81942065,CHC Gomia,,10,Hospital,FY 17-18
+Bokaro,23.62149697,85.85972354,CHC Petarwar,,10,Hospital,FY 17-18
+Bokaro,23.60919702,85.93718346,CHC Kasmar,,10,Hospital,FY 17-18
+Bokaro,23.56709162,86.37116277,CHC Chandankiyari,,10,Hospital,FY 17-18
+Bokaro,23.74085138,85.83605431,CHC Tenughat,,10,Hospital,FY 17-18
+Bokaro,23.64107195,86.15780462,"DC Office, Bokaro",,60,Govt. Buildings,FY 17-18
+Bokaro,23.73172512,85.8535235,Sub Jail Tenughat,,100,Govt. Buildings,FY 17-18
+Bokaro,23.60710802,86.18315173,District Jail Chas Bokaro,,60,Govt. Buildings,FY 17-18
+Chatra,24.20771944,84.88350504,"DC Office, Chatra",,60,Govt. Buildings,FY 17-18
+Deoghar,24.49254609,86.69221814,District Jail Deoghar,,30,Govt. Buildings,FY 17-18
+Dhanbad,23.83884898,86.51893027,"Residential High School, Govindpur",,10,Educational Institution,FY 17-18
+Dhanbad,23.79943621,86.43248092,District Jail  Dhanbad,,100,Govt. Buildings,FY 17-18
+Dumka,24.31890145,87.29296656,KGBV DUMKA,,20,Educational Institution,FY 17-18
+Dumka,24.42634499,87.47959621,KGBV GOPIKANDAR,,20,Educational Institution,FY 17-18
+Dumka,24.37005231,87.12108067,KGBV JARMUNDI,,20,Educational Institution,FY 17-18
+Dumka,24.36011778,87.42953295,KGBV KATHIKUND,,20,Educational Institution,FY 17-18
+Dumka,24.15549028,87.17976567,KGBV MASALIA,,20,Educational Institution,FY 17-18
+Dumka,23.63245562,85.53654584,KGBV RAMGARH,,20,Educational Institution,FY 17-18
+Dumka,24.04812494,87.41220076,KGBV RANESHWAR,,20,Educational Institution,FY 17-18
+Dumka,24.57048615,87.00418324,KGBV SARAIYAHAT,,20,Educational Institution,FY 17-18
+Dumka,24.23703386,87.41917587,KGBV SHIKARIPARA,,20,Educational Institution,FY 17-18
+Dumka,24.26104578,87.24769602,"DC Office, Dumka",,60,Govt. Buildings,FY 17-18
+Dumka,24.58009368,87.01304688,CHC Saraihat,,10,Hospital,FY 17-18
+Dumka,24.39433967,87.05033803,CHC Jarmundi,,10,Hospital,FY 17-18
+Dumka,23.61615304,85.52213645,CHC Ramgarh,,10,Hospital,FY 17-18
+Dumka,24.24308619,87.02530505,CHC Palajori,,10,Hospital,FY 17-18
+Dumka,24.35830768,87.42167088,CHC Kathikund,,10,Hospital,FY 17-18
+Dumka,24.23732355,87.47446844,CHC Shikaripara,,10,Hospital,FY 17-18
+Dumka,24.04629093,87.41013653,CHC Raneshwar,,10,Hospital,FY 17-18
+Dumka,24.23643105,86.83928265,CHC Sarath,,10,Hospital,FY 17-18
+PashchimiSinghbhum,22.54718474,85.8075138,"DC Office, Pashchimi Singhbhum",,25,Govt. Buildings,FY 17-18
+PashchimiSinghbhum,22.75269699,86.19108318,Central Jail Ghaghidih Jamshedpur,,100,Govt. Buildings,FY 17-18
+PashchimiSinghbhum,22.8041621,86.23956898,Yatri Niwas Sidgora Jamshedpur,,45,Govt. Buildings,FY 17-18
+Garhwa,23.73674992,83.82231162,CHC Bhandaria,,6,Hospital,FY 17-18
+Giridih,24.08159418,85.83410322,KGBV BAGODAR,,20,Educational Institution,FY 17-18
+Giridih,24.31622946,86.35649779,KGBV BENGABAD,,20,Educational Institution,FY 17-18
+Giridih,24.28201214,85.92746762,KGBV BIRNI,,20,Educational Institution,FY 17-18
+Giridih,24.49310249,86.19592396,KGBV DEORI,,20,Educational Institution,FY 17-18
+Giridih,24.40773692,86.01331833,KGBV DHANWAR,,20,Educational Institution,FY 17-18
+Giridih,24.01611026,86.0011946,KGBV DUMRI,,20,Educational Institution,FY 17-18
+Giridih,24.61891444,85.88431007,KGBV GAWAN,,20,Educational Institution,FY 17-18
+Giridih,24.18386664,86.28160065,KGBV GIRIDIH,,20,Educational Institution,FY 17-18
+Giridih,24.29805956,86.22029235,KGBV JAMUA,,20,Educational Institution,FY 17-18
+Giridih,24.56896413,86.05879584,KGBV TISRI,,20,Educational Institution,FY 17-18
+Giridih,24.17228986,86.27231088,"DC Office, Giridih",,60,Govt. Buildings,FY 17-18
+Giridih,24.14780994,86.34614869,District Jail Giridih,,60,Govt. Buildings,FY 17-18
+Godda,24.88959985,87.36771732,"Residential Middle School, KartikBhittha.",,10,Educational Institution,FY 17-18
+Godda,25.07663964,87.49761607,"Residential Girls Middle School, Boarijor.",,10,Educational Institution,FY 17-18
+Godda,24.78213042,87.20747697,"DC Office, Godda",,60,Govt. Buildings,FY 17-18
+Godda,24.82505928,87.21349679,District Jail  Godda,,58,Govt. Buildings,FY 17-18
+Godda,25.05447127,87.47435369,KGBV BOARIJORE,,20,Educational Institution,FY 17-18
+Godda,24.79858489,87.30030459,KGBV GODDA,,20,Educational Institution,FY 17-18
+Godda,25.02798839,87.32104839,KGBV MAHAGAMA,,20,Educational Institution,FY 17-18
+Godda,25.2087102,87.34281957,KGBV MEHERAMA,,20,Educational Institution,FY 17-18
+Godda,24.93191323,87.25492878,KGBV PATHARGAMA,,20,Educational Institution,FY 17-18
+Godda,24.70452852,87.23365176,KGBV RAGHUNATHPUR,,20,Educational Institution,FY 17-18
+Godda,24.76074483,87.35492187,KGBV SUNDERPAHARI,,20,Educational Institution,FY 17-18
+Godda,24.82901379,87.21499316,"Civil Court ,Godda",,100,Govt. Buildings,FY 17-18
+Godda,25.10904906,87.47138843,KGBV THAKURGANGTI,,20,Educational Institution,FY 17-18
+Gumla,23.38857293,84.27525497,"Residential High School, Jobhipat.",,10,Educational Institution,FY 17-18
+Gumla,23.35210923,84.40024765,"Residential Girls High School, Chapatoli.",,10,Educational Institution,FY 17-18
+Gumla,23.35369883,84.37666999,"Residential Primary School, Jaingutwa.",,10,Educational Institution,FY 17-18
+Gumla,23.03682516,84.53403755,District Jail  Gumla,,45,Govt. Buildings,FY 17-18
+Gumla,23.24186085,84.88844014,KGB BHARNO,,20,Educational Institution,FY 17-18
+Gumla,23.3740547,84.40257936,KGBV BISHUNPUR,,20,Educational Institution,FY 17-18
+Gumla,23.03621354,84.5327898,KGBV GUMLA,,20,Educational Institution,FY 17-18
+Gumla,22.904153,84.8952178,KGBV KAMDARA,,20,Educational Institution,FY 17-18
+Gumla,23.2263155,84.72870735,KGBV SISAI,,20,Educational Institution,FY 17-18
+Gumla,23.03666161,84.53726048,"DC Office, Gumla",,60,Govt. Buildings,FY 17-18
+Hazaribag,24.01345198,85.3599581,"Indira Gandhi Balika Vidyalaya, Hazaribag ",,60,Educational Institution,FY 17-18
+Jamtara,23.97135764,86.81660836,"DC Office, Jamtara",,20,Govt. Buildings,FY 17-18
+Khunti,22.76685335,85.11157898,CHC Rania,,6,Hospital,FY 17-18
+Khunti,23.12960061,85.12038433,CHC Karra,,10,Hospital,#N/A
+Khunti,22.97634877,85.27630477,CHC Murhu,,10,Hospital,FY 17-18
+Khunti,23.00541799,85.53384108,CHC Arki,,10,Hospital,FY 17-18
+Khunti,23.00197213,85.5365996,KGBV ARKI,,20,Educational Institution,#N/A
+Khunti,23.13670534,85.11078674,KGBV KARRA,,20,Educational Institution,FY 17-18
+Khunti,23.19192467,85.28492855,KGBV KALAMATI,,20,Educational Institution,#N/A
+Khunti,22.96844463,85.27283482,KGB MURHU,,20,Educational Institution,FY 17-18
+Khunti,22.77423788,85.10303833,KGBV RANIYAN,,20,Educational Institution,#N/A
+Kodarma,24.74707344,85.7719964,CHC Satgawan,,10,Hospital,#N/A
+Kodarma,24.32120254,85.83085441,PHC Markacho,,10,Hospital,FY 17-18
+Kodarma,24.47377953,85.59616697,PHC Chandwara,,10,Hospital,FY 17-18
+Kodarma,24.36457549,85.64875383,GOVT KGBV JAINAGAR,,20,Educational Institution,FY 17-18
+Kodarma,24.47293204,85.60965713,GOVT KGBV Kodarma,,20,Educational Institution,FY 17-18
+Kodarma,24.32878385,85.83431599,GOVT KGBV MARKACHO,,20,Educational Institution,FY 17-18
+Kodarma,24.62330962,85.88370183,GOVT KGBV SATGAWAN,,20,Educational Institution,FY 17-18
+Kodarma,24.47453763,85.59392079,"DC Office, Kodarma",,60,Govt. Buildings,FY 17-18
+Kodarma,24.47797797,85.59819568,District Jail Kodarma,,15,Govt. Buildings,FY 17-18
+Latehar,23.83384738,84.7794263,"Residential Primary School, Balumath",,10,Educational Institution,FY 17-18
+Latehar,23.68118113,84.72880378,"Residential Primary School, Chandwa",,10,Educational Institution,FY 17-18
+Latehar,23.77819099,84.46452009,"Residential Primary School, Hotwag",,10,Educational Institution,#N/A
+Latehar,23.39776205,84.10511007,CHC Mahuatand,,8,Hospital,FY 17-18
+Latehar,23.82906678,84.78974347,CHC Balumath,,6,Hospital,#N/A
+Latehar,23.85461353,84.34930225,CHC Manika,,10,Hospital,FY 17-18
+Latehar,23.8509381,84.10985963,CHC Barwadih,,10,Hospital,FY 17-18
+Latehar,23.67153757,84.73622846,CHC Chandwa,,10,Hospital,FY 17-18
+Latehar,24.28247231,85.14953508,CHC Itkhori,,10,Hospital,FY 17-18
+Latehar,23.82856961,84.808798,KGBV BALUMATH,,20,Educational Institution,FY 17-18
+Latehar,23.85255981,84.11122742,KGBV BARWADIH,,20,Educational Institution,FY 17-18
+Latehar,23.67008503,84.74137559,KGBV CHANDWA,,20,Educational Institution,FY 17-18
+Latehar,23.72552403,84.49337552,KGBV LATEHAR,,20,Educational Institution,FY 17-18
+Latehar,23.86035921,84.35740787,KGBV MANIKA,,20,Educational Institution,FY 17-18
+Latehar,23.74217079,84.51075553,"DC Office, Latehar",,40,Govt. Buildings,FY 17-18
+Lohardaga,23.45033458,84.69835547,"DC Office, Lohardaga",,60,Govt. Buildings,FY 17-18
+Lohardaga,23.45120229,84.70371597,District Jail Lohardaga,,15,Govt. Buildings,FY 17-18
+Pakur,24.63680062,87.83648425,Civil Court pakur,,100,Govt. Buildings,FY 17-18
+Pakur,24.63968622,87.83565873,District Jail Pakur,,65,Govt. Buildings,FY 17-18
+Pakur,24.69935688,87.62351506,CHC Litipara,,10,Hospital,FY 17-18
+Pakur,24.51723471,87.56914311,CHC Amrapara,,10,Hospital,FY 17-18
+Pakur,24.70588038,87.70031808,CHC Hiranpur,,10,Hospital,FY 17-18
+Pakur,24.47430697,87.77822246,CHC Maheshpur,,10,Hospital,FY 17-18
+Pakur,24.32856975,87.64474186,CHC Pakuria,,10,Hospital,FY 17-18
+Pakur,24.63705766,87.8593796,CHC Pakur,,10,Hospital,FY 17-18
+Palamu,24.05941269,84.21188497,"Residential Primary School, Lesliganj",,10,Educational Institution,FY 17-18
+Palamu,24.03825825,84.47391808,CHC Panki,,7,Hospital,FY 17-18
+Palamu,24.01121946,84.047868,KGBV CHAINPUR,,20,Educational Institution,FY 17-18
+Palamu,24.45564774,84.22597598,KGBV CHHATARPUR,,20,Educational Institution,FY 17-18
+Palamu,24.0424265,84.06116912,KGBV MEDININAGAR,,20,Educational Institution,FY 17-18
+Palamu,24.55271196,83.99153938,KGBV HUSSAINABAD,,20,Educational Institution,FY 17-18
+Palamu,24.04416804,84.21495073,KGBV LESLIGANJ,,20,Educational Institution,FY 17-18
+Palamu,24.19355074,84.13792856,KGBV PATAN,,20,Educational Institution,FY 17-18
+Palamu,24.02600793,84.47839632,KGBV PANKI,,20,Educational Institution,FY 17-18
+Palamu,23.930078,84.25202683,KGBV SATBARWA,,20,Educational Institution,FY 17-18
+Palamu,24.17693397,84.36774688,KGBV MANATU,,20,Educational Institution,FY 17-18
+Palamu,24.04950246,84.09515628,"Nilambar-Pitamber University, Medninagar",,100,Educational Institution,FY 17-18
+Palamu,24.04000641,84.0710525,"DC Office, Palamu",,60,Govt. Buildings,FY 17-18
+Ranchi,23.45289519,85.31746294,"National university of study & resarch in Law,Kanke,Pithoria",,100,Educational Institution,FY 17-18
+Ranchi,23.38103341,85.28432037,"SIRD, Hehal, Ranchi",,60,Educational Institution,FY 17-18
+Ranchi,23.370707,85.33169157,"Govt. Women Polytechnic, Ranchi",,60,Educational Institution,FY 17-18
+Ranchi,23.34181744,85.12272964,Itki Arogyashala (IRL Lab),,60,Hospital,FY 17-18
+Ranchi,23.3466838,85.36861711,"Health Directorate, Namkum Ranchi",,40,Hospital,FY 17-18
+Ranchi,23.36562311,85.31936214,"Marwari College, Ranchi ",,100,Educational Institution,FY 17-18
+Ranchi,23.39685432,85.33495432,Dr. Ramdayal Munda Tribal Welfare & Research Institute,,25,Educational Institution,FY 17-18
+Ranchi,23.37345276,85.39093349,"Birsa Munda Jail,Hotwar",,82,Govt. Buildings,FY 17-18
+Sahibganj,24.99985463,87.73900265,"Residential Girls High School, Vrindawan, Teenpahar.",,10,Educational Institution,FY 17-18
+Sahibganj,24.89643306,87.60185711,"Residential Girls High School, Berhait",,10,Educational Institution,#N/A
+Sahibganj,24.86961973,87.75223349,"Residential Middle School, Dhamdhamiya. ",,10,Educational Institution,FY 17-18
+Sahibganj,24.8696976,87.75223349,"Residential Middle School, Amberi.",,10,Educational Institution,FY 17-18
+Sahibganj,25.22850751,87.64390534,District Jail Sahibganj,,15,Govt. Buildings,FY 17-18
+Sahibganj,25.04644581,87.83866505,"Civil Court ,Rajmahal",,100,Govt. Buildings,FY 17-18
+SaraikelaKharsawan,22.70401472,85.93524083,"Civil Courts, Saraikela Kharsawan",,100,Govt. Buildings,FY 17-18
+SaraikelaKharsawan,22.73050129,85.9593272,"DC Office, Saraikela Kharsawan",,60,Govt. Buildings,FY 17-18
+SaraikelaKharsawan,22.69901024,85.92566206,District Jail Saraikela,,40,Govt. Buildings,FY 17-18
+SaraikelaKharsawan,22.92168111,86.05519803,K. G. B. V  CHANDIL,,20,Educational Institution,FY 17-18
+SaraikelaKharsawan,22.78237847,85.80862661,K.G.B.V. KHARSAWAN,,20,Educational Institution,FY 17-18
+SaraikelaKharsawan,22.84083963,85.74231758,K.G.B.V. KUCHAI,,20,Educational Institution,FY 17-18
+SaraikelaKharsawan,23.01240997,86.12162387,K.G.B.V. NIMDIH,,20,Educational Institution,FY 17-18
+SaraikelaKharsawan,22.6230422,86.00505983,K.G.B.V RAJNAGAR,,20,Educational Institution,FY 17-18
+SaraikelaKharsawan,22.73918173,85.9534877,KASTURBA GANDHI A.S SERAIKELLA,,20,Educational Institution,FY 17-18
+Simdega,22.61629092,84.50362592,Sadar Hospital Simdega,,60,Hospital,FY 17-18
+Simdega,22.6419166,84.89905685,KGBV BANO,,20,Educational Institution,FY 17-18
+Simdega,22.58071466,84.81698021,KGBV JALDEGA,,20,Educational Institution,FY 17-18
+Simdega,22.69278595,84.71572183,KGBV KOLEBIRA,,20,Educational Institution,FY 17-18
+Simdega,22.57608302,84.16019506,KGBV KURDEG,,20,Educational Institution,FY 17-18
+Simdega,22.61521901,84.52627653,KGBV SIMDEGA,,20,Educational Institution,FY 17-18
+Simdega,22.50128178,84.50291599,KGBV THFTAITNAGAR,,20,Educational Institution,#N/A
+Simdega,22.43020031,84.3408631,CHC Bolba,,6,Hospital,FY 17-18
+Simdega,22.54474458,84.11935321,CHC Kurdeg,,10,Hospital,FY 17-18
+Simdega,22.4974283,84.50641655,CHC Thethaitangar,,10,Hospital,FY 17-18
+Simdega,22.69890746,84.69499568,CHC Kolebira,,10,Hospital,FY 17-18
+Simdega,22.65040902,84.91141254,CHC Bano,,10,Hospital,FY 17-18
+Simdega,22.65606531,84.31820414,PHC sewai,,10,Hospital,FY 17-18
+purbaSinghbhum,22.4522046,85.92808075,CHC Tantnagar,,7,Hospital,FY 17-18
+purbaSinghbhum,22.58317362,85.46308979,CHC Sonua,,10,Hospital,FY 17-18
+purbaSinghbhum,22.86278631,85.3314995,CHC Bandgaon,,10,Hospital,FY 17-18
+purbaSinghbhum,22.68127558,85.80243354,CHC khutpani,,10,Hospital,FY 17-18
+purbaSinghbhum,22.51032624,85.37751941,CHC Goilkera,,10,Hospital,FY 17-18
+purbaSinghbhum,24.92745824,87.32907404,CHC Manohapur,,10,Hospital,FY 17-18
+purbaSinghbhum,22.38332055,85.73210719,CHC Tonto,,10,Hospital,FY 17-18
+purbaSinghbhum,22.33600272,85.93000848,CHC Manjhari,,10,Hospital,FY 17-18
+Bokaro,23.63608042,86.14215203,SECTOR - 12 PS,,10,Police Station,FY 18-19
+Bokaro,23.69127672,86.15327524,HARLA PS,,10,Police Station,FY 18-19
+Bokaro,23.66134088,86.30919045,SIYALJORI PS,,10,Police Station,FY 18-19
+Bokaro,23.74697346,86.11928439,CHANDRAPURA PS,,10,Police Station,FY 18-19
+Bokaro,23.83086832,85.82826715,I.E.L. POLICE STATION,,10,Police Station,FY 18-19
+Bokaro,23.61523494,85.84929943,PETERBAR PS,,10,Police Station,#N/A
+Bokaro,23.66148596,86.00904414,JARIDIH PS,,10,Police Station,FY 18-19
+Bokaro,23.5051801,86.19768958,PINDAJORA PS,,10,Police Station,#N/A
+Bokaro,23.57690042,86.35514875,CHANDANDKIYARI PS,,10,Police Station,FY 18-19
+Bokaro,23.74961348,86.15666266,DUGDHA PS,,10,Police Station,FY 18-19
+Bokaro,23.64702291,86.15579959,Bokaro Circle Office Commercial Taxes,,25,Govt. Buildings,FY 18-19
+Bokaro,23.72254178,85.8427571,Sub Divisional Court Tenughat,,100,Govt. Buildings,FY 18-19
+Bokaro,23.76392434,86.001936,BERMO PS,,10,Police Station,FY 18-19
+Bokaro,23.85018832,86.04309076,NAVADIH PS,,10,Police Station,FY 18-19
+Bokaro,23.80055136,85.82125074,GOMIA PS,,10,Police Station,FY 18-19
+Bokaro,23.74091377,85.75706092,LALPANIA PS,,10,Police Station,FY 18-19
+Chatra,24.29423248,85.00881335,RAJPUR PS,,10,Police Station,FY 18-19
+Chatra,24.28331781,85.24200182,MAYURHAND PS,,10,Police Station,FY 18-19
+Chatra,24.05754305,84.93563857,SIMARIYA PS,,10,Police Station,FY 18-19
+Chatra,24.20903223,84.87318805,SADAR Police Station,,10,Police Station,FY 18-19
+Chatra,24.17748951,85.01854455,GIDDAUR Police Station,,10,Police Station,FY 18-19
+Chatra,24.07513617,84.73542706,LAWALONG Police Station,,10,Police Station,FY 18-19
+Chatra,23.85078227,85.03180227,TANDWA Police Station,,10,Police Station,FY 18-19
+Chatra,24.43470561,84.8143661,HUNTERGANJ Police Station,,10,Police Station,FY 18-19
+Chatra,24.296074,84.63773136,PRATAPPUR Police Station,,10,Police Station,FY 18-19
+Chatra,25.72254492,81.51089116,KUNDA Police Station,,10,Police Station,FY 18-19
+Chatra,24.85613483,86.30570344,CHC Gidhour,,10,Hospital,FY 18-19
+Chatra,24.2916001,85.15584199,ITKHORI Police Station,,10,Police Station,FY 18-19
+Chatra,25.52258399,82.16187042,CHC Pratappur,,10,Hospital,FY 18-19
+Chatra,24.07520767,84.73480788,CHC Lawalaung,,10,Hospital,FY 18-19
+Deoghar,24.48529345,86.62237602,"Krishi Vigyan Kendra, Deoghar",,25,Educational Institution,FY 18-19
+Deoghar,24.49174183,86.68394564,Sub-Divisional Office Deoghar,,25,Govt. Buildings,FY 18-19
+Deoghar,24.27314931,86.64300751,Sub-Divisional Office Madhupur,,25,Govt. Buildings,FY 18-19
+Deoghar,24.51239034,86.81640165,CHC Mohanpur,,10,Hospital,FY 18-19
+Deoghar,24.38686283,86.78256165,CHC Sarwan,,10,Hospital,FY 18-19
+Deoghar,24.40191507,86.58950852,CHC Devipur,,10,Hospital,FY 18-19
+Deoghar,24.49643547,86.64130817,CHC Jasidih,,10,Hospital,FY 18-19
+Deoghar,24.48063929,86.70361388,Kunda PS,,10,Police Station,FY 18-19
+Deoghar,24.49880364,86.6422547,JASIDIH PS,,10,Police Station,FY 18-19
+Deoghar,21.84407502,87.42286919,MAOHANPUR PS,,10,Police Station,FY 18-19
+Deoghar,24.39839015,86.58611791,DEVIPUR PS,,10,Police Station,FY 18-19
+Dhanbad,23.80281608,86.43220165,DHANBAD PS,,10,Police Station,FY 18-19
+Dhanbad,23.78729295,86.70242852,NIRSHA PS,,10,Police Station,FY 18-19
+Dhanbad,23.77808913,86.38171777,KENDUADIH PS,,10,Police Station,FY 18-19
+Dhanbad,23.78835065,86.41944502,BANKMODE PS,,10,Police Station,FY 18-19
+Dhanbad,23.81029948,86.45047841,SARAIDHELA PS,,10,Police Station,FY 18-19
+Dhanbad,23.77643849,86.41170421,DHANSAR PS,,10,Police Station,FY 18-19
+Dhanbad,23.66566217,86.48422069,SINDRI PS,,10,Police Station,FY 18-19
+Dhanbad,23.73741496,86.80283222,CHIRKUNDA PS,,10,Police Station,FY 18-19
+Dhanbad,23.80852322,86.29198283,KATRASH PS,,10,Police Station,FY 18-19
+Dhanbad,23.84850662,86.42791492,BARWADA PS,,10,Police Station,FY 18-19
+Dhanbad,23.9853838,86.45160379,TUNDI PS,,10,Police Station,FY 18-19
+Dhanbad,23.98836988,86.3680315,MANIADIH PS,,10,Police Station,FY 18-19
+Dhanbad,23.89895348,86.58841045,EAST TUNDI PS,,10,Police Station,FY 18-19
+Dhanbad,26.69428894,88.52860403,RAJGANJ PS,,10,Police Station,FY 18-19
+Dhanbad,23.78717321,86.20114174,BAGHMARA PS,,10,Police Station,FY 18-19
+Dhanbad,23.74985461,86.27352825,MAHUDA PS,,10,Police Station,FY 18-19
+Dhanbad,23.72147079,86.51960578,BLIAPUR PS,,10,Police Station,FY 18-19
+Dhanbad,23.8089048,86.33968938,TETULMARI PS,,10,Police Station,FY 18-19
+Dhanbad,23.81357193,86.23754727,BARORA PS,,10,Police Station,FY 18-19
+Dhanbad,23.78525186,86.35445521,LOYABAD PS,,10,Police Station,FY 18-19
+Dhanbad,23.82272469,86.28305911,Women's and Child Protection Police Station Dhanbad,,10,Police Station,FY 18-19
+Dhanbad,23.70856529,86.52622069,"Krishi Vigyan Kendra, Baliapur,Dhanbad",,25,Educational Institution,FY 18-19
+Dhanbad,23.99123761,86.44343611,Tundi CHC,,10,Hospital,FY 18-19
+Dhanbad,23.90015495,86.22571972,Topchachi CHC,,10,Hospital,FY 18-19
+Dhanbad,23.78814954,86.20282139,Baghmara CHC,,10,Hospital,FY 18-19
+Dhanbad,23.72023794,86.52402681,Baliyapur CHC,,10,Hospital,FY 18-19
+Dhanbad,23.7870198,86.70205211,Nirsa CHC,,10,Hospital,FY 18-19
+Dumka,24.25393157,87.24443689,"Krishi Vigyan Kendra, ZARS Dumka",,25,Educational Institution,FY 18-19
+Dumka,24.26108785,87.24697141,Dumka Circle Office Commercial Taxes,,25,Govt. Buildings,FY 18-19
+Dumka,24.2632546,87.24762744,Sub-Divisional Office Dumka,,25,Govt. Buildings,FY 18-19
+Dumka,24.26708597,87.24960153,NAGAR PS,,10,Police Station,FY 18-19
+Dumka,24.27273041,87.25720838,MUFSIL PS,,10,Police Station,FY 18-19
+Dumka,24.23677008,87.47538099,SHIKARIPARA PS,,10,Police Station,FY 18-19
+Dumka,24.35662169,87.42202699,KATHIKUND PS,,10,Police Station,FY 18-19
+Dumka,24.42258333,87.48462434,GOPIKANDAR PS,,10,Police Station,FY 18-19
+Dumka,24.34862431,87.14999564,JAMA PS,,10,Police Station,FY 18-19
+Dumka,24.44550874,86.921854,TALJHARI PS,,10,Police Station,FY 18-19
+Dumka,24.57989904,87.01137634,SARAIYAHAT PS,,10,Police Station,FY 18-19
+Dumka,24.38904268,87.07909581,JARMUNDI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.61175455,86.46344899,"Sub-Divisional Court, Ghatshila",,100,Govt. Buildings,FY 18-19
+PashchimiSinghbhum,22.79852656,86.18437649,BISTUPUR PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.8034506,86.19995445,SAKACHI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.82069847,86.17879288,SONARI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.75594815,86.20182965,PARSUDIH PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.78341553,86.2274673,GOLMURI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.78201407,86.18503308,JUGSALAI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.83946183,86.20280641,AAZADNAGAR PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.78759821,86.25029695,BIRSANAGAR PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.79914546,86.17222352,KADMA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.90729528,86.38904882,PATMADA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.58092569,86.48216498,GHATSILA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.56628373,86.15269052,KOWALI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.96653373,86.28169026,BORAM PS,,10,Police Station,#N/A
+PashchimiSinghbhum,22.3659853,86.54048683,GUDBANDHA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.2750273,86.71684891,BAHARGODA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.4808405,86.72144269,CHAKULIYA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.62057816,85.82306591,SHYAMSUNDARPUR PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.51940603,86.54932295,DHALBHUMGARH PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.51942802,86.45772387,MUSABANI PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.6539873,86.35320959,JADUGODA PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.33749477,86.81737736,Barsol PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.73728848,86.19710223,Sundernagar PS,,10,Police Station,FY 18-19
+PashchimiSinghbhum,22.62811895,86.22266114,CHC Potka,,10,Hospital,FY 18-19
+PashchimiSinghbhum,22.50254539,86.46398574,CHC Musabani,,10,Hospital,FY 18-19
+Garhwa,24.16101906,83.80775503,GARHWA Police Station,,10,Police Station,FY 18-19
+Garhwa,24.28320305,83.49857012,NAGAR UTRI Police Station,,10,Police Station,FY 18-19
+Garhwa,24.11991466,83.61649306,DANDAI Police Station,,10,Police Station,FY 18-19
+Garhwa,23.987278,83.78909501,RANKA Police Station,,10,Police Station,FY 18-19
+Garhwa,23.87207917,83.88374916,RAMKANDA Police Station,,10,Police Station,FY 18-19
+Garhwa,24.04313219,83.62930305, CHINIYA Police Station,,10,Police Station,FY 18-19
+Garhwa,23.96212395,88.03941169,KANDI Police Station,,10,Police Station,FY 18-19
+Garhwa,24.29658968,83.66445794,BISHUNPURA Police Station,,10,Police Station,FY 18-19
+Garhwa,23.73612954,83.82484002,BHANDARIYA Police Station,,10,Police Station,FY 18-19
+Garhwa,24.37199536,83.73675496,BARDIHA Police Station,,10,Police Station,FY 18-19
+Garhwa,24.2382423,83.59091853,RAMNA Police Station,,10,Police Station,FY 18-19
+Garhwa,24.32205121,83.8117347,MANJHIAON Police Station,,10,Police Station,FY 18-19
+Garhwa,24.39271752,83.57674032,BHAVNATHPUR Police Station,,10,Police Station,FY 18-19
+Garhwa,24.14041602,83.44894858,DHURKI Police Station,,10,Police Station,FY 18-19
+Garhwa,24.14930729,83.96475139,DANDA Police Station,,10,Police Station,FY 18-19
+Garhwa,24.38461495,83.56856283,CHC Bhavanthpur,,10,Hospital,FY 18-19
+Garhwa,24.48019656,83.76638665,CHC Kandi,,10,Hospital,FY 18-19
+Garhwa,24.22971568,83.60934071,CHC Ramna,,10,Hospital,FY 18-19
+Garhwa,24.25168797,83.57172096,CHC Nagarutari,,10,Hospital,FY 18-19
+Garhwa,24.14257327,83.45081807,CHC Dhurki,,10,Hospital,FY 18-19
+Garhwa,24.11841233,83.62092278,CHC Dandai,,10,Hospital,FY 18-19
+Garhwa,24.05231222,83.63128574,CHC Chiniya,,10,Hospital,FY 18-19
+Garhwa,24.17876848,83.70993976,CHC Meral,,10,Hospital,FY 18-19
+Garhwa,23.98305822,83.78018957,CHC Ranka,,10,Hospital,FY 18-19
+Garhwa,24.15932593,83.80196569,CHC Garhwa Sadar,,10,Hospital,FY 18-19
+Garhwa,24.18037106,83.70859859,Meral PS,,10,Police Station,FY 18-19
+Garhwa,24.28784985,83.51160181,Sub-Divisional Office Nagarutari,,25,Govt. Buildings,FY 18-19
+Garhwa,23.99719886,83.79372168,"Sub-Divisional Office Ranka,Garhwa",,25,Govt. Buildings,FY 18-19
+Giridih,23.99473674,86.01403253,Sub-Divisional Office Dumri,,25,Govt. Buildings,FY 18-19
+Giridih,24.18822161,86.30635092,Civil Court Giridih,,200,Govt. Buildings,FY 18-19
+Giridih,24.18126338,86.30724966,NAGAR PS,,10,Police Station,FY 18-19
+Giridih,24.17563827,86.28818034,MUFSILPS,,10,Police Station,FY 18-19
+Giridih,24.05741183,86.41959014,TARTAND PS,,10,Police Station,FY 18-19
+Giridih,23.99752878,86.00525348,DUMRI PS,,10,Police Station,FY 18-19
+Giridih,23.95397901,86.07586749,NIMIYAGHAT PS,,10,Police Station,FY 18-19
+Giridih,24.04408644,86.16171529,PIRTAND PS,,10,Police Station,FY 18-19
+Giridih,23.99780595,86.21606136,KHUKHRA THANA PS,,10,Police Station,FY 18-19
+Giridih,24.01352879,86.14847255,MADHUBAN PS,,10,Police Station,FY 18-19
+Giridih,24.58259141,86.06391432,TISRI PS,,10,Police Station,FY 18-19
+Giridih,24.3050824,86.35781226,BENGABAD PS,,10,Police Station,FY 18-19
+Giridih,24.17829682,86.45339922,GANDAY PS,,10,Police Station,FY 18-19
+Giridih,24.11053277,86.48261615,AHILYAPUR PS,,10,Police Station,FY 18-19
+Giridih,24.45331301,86.04741629,HERODIH PS,,10,Police Station,FY 18-19
+Giridih,24.41033581,85.98027034,DHANBAR PS,,10,Police Station,FY 18-19
+Giridih,24.57665971,86.06534546,CHC Tisri,,10,Hospital,FY 18-19
+Giridih,24.36941422,86.14931317,CHC Jamua,,10,Hospital,FY 18-19
+Giridih,24.30470101,86.35525747,CHC Bengabad,,10,Hospital,FY 18-19
+Giridih,24.17977986,86.46321735,CHC Gande,,10,Hospital,FY 18-19
+Giridih,24.28447183,85.93026274,CHC Birni,,10,Hospital,FY 18-19
+Giridih,24.08679073,85.8303143,CHC Bagodar,,10,Hospital,FY 18-19
+Giridih,23.99982466,85.99943585,CHC Dumari,,10,Hospital,FY 18-19
+Giridih,24.04134632,86.15864303,CHC Pirtand,,10,Hospital,FY 18-19
+Giridih,24.27175736,85.93928499,BIRNI PS,,10,Police Station,FY 18-19
+Giridih,24.6125917,85.91673396,GAWAN PS,,10,Police Station,FY 18-19
+Godda,25.18782204,87.35172442,CHC Meherma,,10,Hospital,FY 18-19
+Godda,25.02199375,87.32274653,CHC Mahagama,,10,Hospital,FY 18-19
+Godda,24.94757567,87.27780683,CHC Pathargama,,10,Hospital,FY 18-19
+Godda,24.75401305,87.19781723,CHC Poraihahat,,10,Hospital,FY 18-19
+Godda,24.75731828,87.35722378,CHC Sunderpahari,,10,Hospital,FY 18-19
+Godda,24.841149,87.21305163,NAGAR PS,,10,Police Station,FY 18-19
+Godda,25.02374306,87.32384655,MAHGAMA PS,,10,Police Station,FY 18-19
+Godda,24.75695221,87.3543449,SUNDARPAHARI PS,,10,Police Station,FY 18-19
+Godda,24.92312188,87.35962116,RAJABHITA PS,,10,Police Station,FY 18-19
+Godda,25.0522806,87.36258313,LALMATIYA PS,,10,Police Station,FY 18-19
+Godda,25.20149376,87.37050683,MEHRMA PS,,10,Police Station,FY 18-19
+Godda,25.05743812,87.47704892,BOARIJOR PS,,10,Police Station,FY 18-19
+Gumla,23.04511375,84.54243882,GUMLA PS,,10,Police Station,FY 18-19
+Gumla,23.26808402,84.55407646,GHAGHRA PS,,10,Police Station,FY 18-19
+Gumla,23.37449532,84.38202232,BISHUNPUR PS,,10,Police Station,FY 18-19
+Gumla,23.31577094,84.24839832,GURDARI PS,,10,Police Station,FY 18-19
+Gumla,22.87531491,84.64965892,PALKOT PS,,10,Police Station,FY 18-19
+Hazaribag,24.29404577,85.44506539,Sub-Divisional Office Barhi,,25,Govt. Buildings,FY 18-19
+Jamtara,23.96167758,86.79749217,JAMTARA PS,,10,Police Station,FY 18-19
+Jamtara,22.64659718,88.45868434,NARAYANPUR PS,,10,Police Station,FY 18-19
+Jamtara,24.07696052,86.70342826,KARMATAND PS,,10,Police Station,FY 18-19
+Jamtara,23.97454853,87.15151217,KUNDHIT PS,,10,Police Station,FY 18-19
+Jamtara,25.92810141,80.8197825,FATEHPUR PS,,10,Police Station,FY 18-19
+Jamtara,23.91780397,87.03407091,NALA PS,,10,Police Station,FY 18-19
+Jamtara,23.99946785,86.92408955,BINDAPATHAR PS,,10,Police Station,FY 18-19
+Jamtara,24.04177822,86.61964864,CHC Narayanpur,,10,Hospital,FY 18-19
+Jamtara,23.91889842,87.04676452,CHC Nala,,10,Hospital,FY 18-19
+Jamtara,23.96999767,87.16665813,CHC Kundhit,,10,Hospital,FY 18-19
+Khunti,23.05761222,85.28556259,"Sub-Divisional Office, Khunti",,25,Govt. Buildings,FY 18-19
+Khunti,23.07710837,85.2790304,KHUNTI P.S,,10,Police Station,FY 18-19
+Khunti,22.96248609,85.28004406,MURHU P.S,,10,Police Station,FY 18-19
+Khunti,22.9360205,85.09005312,TORPA PS,,10,Police Station,FY 18-19
+Khunti,23.04939985,85.2863881,Women's and Child Protection Police Station Khunti,,10,Police Station,FY 18-19
+Kodarma,24.47082264,85.59423892,Kodarma PS,,10,Police Station,FY 18-19
+Kodarma,24.43488517,85.52515243,TELAIYA PS,,10,Police Station,#N/A
+Kodarma,24.74753161,85.77126454,SATGAWAN PS,,10,Police Station,FY 18-19
+Kodarma,24.43368479,85.78061984,NAWALSAHI PS,,10,Police Station,FY 18-19
+Kodarma,24.36476367,85.65370922,"Krishi Vigyan Kendra, Jainagar",,25,Educational Institution,FY 18-19
+Kodarma,24.47702486,85.59601797,Kodarma Circle Office Commercial Taxes,,25,Govt. Buildings,FY 18-19
+Kodarma,24.47609725,85.59456394,"Sub-Divisional Office, Kodarma",,25,Govt. Buildings,FY 18-19
+Latehar,23.39561233,84.11435456,"Sub-Divisional Office Mahuatand,Latehar",,25,Govt. Buildings,FY 18-19
+Latehar,23.74262063,84.5113493,Sub-Divisional Office Latehar,,25,Govt. Buildings,FY 18-19
+Lohardaga,23.52020628,84.66390687,CHC Kisko,,10,Hospital,FY 18-19
+Lohardaga,23.38369811,84.65315035,CHC Senha,,10,Hospital,FY 18-19
+Lohardaga,23.3633547,84.78225814,CHC Bhandra,,10,Hospital,FY 18-19
+Lohardaga,23.44198158,84.68515931,CHC Lohardaga Sadar,,10,Hospital,FY 18-19
+Lohardaga,23.43778088,84.68027352,LOHARDAGA PS,,10,Police Station,FY 18-19
+Lohardaga,23.43638199,84.68017607,Women's And Child Protection Police station LOHARDAGA,,10,Police Station,FY 18-19
+Pakur,24.64080882,87.84709726,NAGAR PS,,10,Police Station,FY 18-19
+Pakur,24.54113144,87.57621387,AMRAPARA PS,,10,Police Station,FY 18-19
+Pakur,24.33198838,87.65203382,PAKURIYA PS,,10,Police Station,FY 18-19
+Pakur,24.69388989,87.61790581,LITTIPARA PS,,10,Police Station,FY 18-19
+Pakur,24.47671611,87.77039891,MAHESHPUR PS,,10,Police Station,FY 18-19
+Pakur,24.47285711,87.76320564,"Krishi Vigyan Kendra, Maheshpur Farm Pakur",,25,Educational Institution,FY 18-19
+Pakur,24.64022814,87.8355928,Sub-Divisional Office Pakur,,25,Govt. Buildings,FY 18-19
+Palamu,24.06527607,84.0770974,SADAR PS,,10,Police Station,FY 18-19
+Palamu,23.63968939,85.51410419,RAMGARH PS,,10,Police Station,FY 18-19
+Palamu,24.08875578,84.30344855,TARHASI PS,,10,Police Station,FY 18-19
+Palamu,24.19210993,84.28918775,NAWAJAIPUR PS,,10,Police Station,FY 18-19
+Palamu,24.01602327,84.04566868,CHAINPUR PS,,10,Police Station,FY 18-19
+Palamu,24.55296352,84.28567431,HARIHARGANJ PS,,10,Police Station,FY 18-19
+Palamu,24.41805219,83.86797205,MOHAMADGANJ PS,,10,Police Station,FY 18-19
+Palamu,24.32917602,83.96820522,PANDU PS,,10,Police Station,FY 18-19
+Palamu,24.09899763,84.57973512,PIPRATAND PS,,10,Police Station,FY 18-19
+Palamu,24.36718655,84.29946389,NAWDIHA PS,,10,Police Station,FY 18-19
+Palamu,24.2036039,84.18250069,PATAN PS,,10,Police Station,FY 18-19
+Palamu,24.49981033,83.94795951,HAIDERNAGAR PS,,10,Police Station,FY 18-19
+Palamu,23.18595774,82.96237284,BISHRMPUR PS,,10,Police Station,FY 18-19
+Palamu,24.53281825,83.9987125,Husainabad PS,,10,Police Station,FY 18-19
+Palamu,24.27913786,84.10294785,NAWABAZAR PS,,10,Police Station,FY 18-19
+Palamu,24.20000298,84.17720628,CHC Patan,,10,Hospital,FY 18-19
+Palamu,24.37815678,84.19647054,CHC Chattarpur,,10,Hospital,FY 18-19
+Palamu,24.23101961,84.40756625,Manatu PS,,10,Police Station,FY 18-19
+Palamu,23.19173744,82.97684491,CHC Bisrampur,,10,Hospital,FY 18-19
+Palamu,24.22913044,84.40533522,CHC Manatu,,10,Hospital,FY 18-19
+Palamu,24.01434201,84.05331649,CHC Chainpur,,10,Hospital,FY 18-19
+Palamu,24.04462914,84.21510053,CHC Lesliganj,,10,Hospital,FY 18-19
+Palamu,24.04513235,84.06005477,CHC Sadar,,10,Hospital,FY 17-18
+Palamu,24.37915164,84.19823071,Sub-Divisional Office Chhatarpur,,25,Govt. Buildings,FY 18-19
+Palamu,24.53142132,84.00685805,Sub-Divisional Office Husainabad,,25,Govt. Buildings,FY 18-19
+Ramgarh,23.61490044,85.57121761,Ramgarh Circle Office Commercial Taxes,,25,Govt. Buildings,FY 18-19
+Ramgarh,23.6239033,85.53741177,"Sub-Divisional Office, Ramgarh",,25,Govt. Buildings,FY 18-19
+Ramgarh,23.44823492,85.84449883,BARLANGA PS,,10,Police Station,FY 18-19
+Ramgarh,23.80760402,85.47100585,MANDU PS,,10,Police Station,FY 18-19
+Ramgarh,23.6482453,85.28580345,PATRATU PS,,10,Police Station,FY 18-19
+Ramgarh,23.63903955,85.31703271,BASAL PS,,10,Police Station,FY 18-19
+Ramgarh,23.54028434,85.71633905,CHC Gola,,10,Hospital,FY 18-19
+Ramgarh,23.80890227,85.4708657,CHC Mandu,,10,Hospital,FY 18-19
+Ranchi,23.36630293,85.33177915,LOWER BAZAR PS,,10,Police Station,FY 18-19
+Ranchi,23.37226235,85.33578061,LALPUR PS,,10,Police Station,FY 18-19
+Ranchi,23.35665224,85.302552,ARGORA PS,,10,Police Station,FY 18-19
+Ranchi,23.37808177,85.30764295,SUKHDEO NAGAR PS,,10,Police Station,FY 18-19
+Ranchi,23.32306484,85.30318496,JAGARNATHPUR PS,,10,Police Station,FY 18-19
+Ranchi,23.57004459,85.13314223,CHC Burmu ,,10,Hospital,FY 18-19
+Ranchi,23.43595759,85.31871312,CHC Kanke ,,10,Hospital,FY 18-19
+Ranchi,23.32289652,85.38107752,"Jharkhand Academic Council, Ranchi",,100,Educational Institution,FY 18-19
+Ranchi,23.1692322,85.59023317,BUNDU PS,,10,Police Station,FY 18-19
+Ranchi,23.32631858,85.19253469,NAGRI PS,,10,Police Station,FY 18-19
+Ranchi,23.46100702,85.09092977,MANDAR  PS,,10,Police Station,FY 18-19
+Ranchi,23.18648715,85.71196941,SONAHATU PS,,10,Police Station,FY 18-19
+Ranchi,23.52479314,85.29782132,PITHORIYA PS,,10,Police Station,FY 18-19
+Ranchi,23.41805277,85.23186839,RATU PS,,10,Police Station,FY 18-19
+Ranchi,23.32191645,85.3852524,Namkum PS,,10,Police Station,FY 18-19
+Ranchi,23.35369846,85.33759679,CHUTYA PS,,10,Police Station,FY 18-19
+Ranchi,23.4352047,85.315555,KANKE PS,,10,Police Station,FY 18-19
+Ranchi,23.48232765,85.47763999,ORMANJHI PS,,10,Police Station,FY 18-19
+Ranchi,23.41710197,85.22979678,CHC Ratu,,10,Hospital,FY 18-19
+Ranchi,23.32163453,85.37921644,CHC Namkum,,10,Hospital,FY 18-19
+Ranchi,23.53320045,85.49993175,Ormanjhi CHC,,10,Hospital,FY 18-19
+Ranchi,23.37180521,85.32637682,"State Library ,Ranchi",,25,Educational Institution,FY 18-19
+Ranchi,23.38947213,85.33988645,"Krishi Vigyan Kendra, Morabadi Ranchi",,25,Educational Institution,FY 18-19
+Ranchi,23.34972438,85.33572881,South Circle Ranchi Office Commercial Taxes,,25,Govt. Buildings,FY 18-19
+Ranchi,23.34943354,85.33520634,"Special Circle, Ranchi Office Commercial Taxes",,25,Govt. Buildings,FY 18-19
+Ranchi,23.34404877,85.30525239,"Sub-Divisional Office, Ranchi",,25,Govt. Buildings,FY 18-19
+Ranchi,23.17573618,85.57958101,"Sub-Divisional Office, Bundu",,25,Govt. Buildings,FY 18-19
+Ranchi,23.46345331,85.08991111,CHC Mandar,,10,Hospital,FY 18-19
+Ranchi,23.50698836,84.97240112,CHC Chanho,,10,Hospital,FY 18-19
+Ranchi,23.30538229,85.0167088,CHC Bero,,10,Hospital,FY 18-19
+Ranchi,23.10127001,84.95148058,CHC Lapung,,10,Hospital,FY 18-19
+Ranchi,23.16405602,85.59276445,CHC Bundu,,10,Hospital,FY 18-19
+Ranchi,23.16942948,85.59001859,BUDMU PS,,10,Police Station,FY 18-19
+Ranchi,23.36152209,85.84253302,SILLI PS,,10,Police Station,FY 18-19
+Ranchi,23.39969495,85.51112447,Angarha PS,,10,Police Station,FY 18-19
+Ranchi,23.34202435,85.12738272,ITKI PS,,10,Police Station,FY 18-19
+Sahibganj,25.0478062,87.61532508,KGBV BORIO,,20,Educational Institution,FY 18-19
+Sahibganj,25.01870403,87.83211825,KGBV RAJMAHAL,,20,Educational Institution,FY 18-19
+Sahibganj,25.24086381,87.64392411,KGBV SAHIBGANJ,,20,Educational Institution,FY 18-19
+Sahibganj,25.07673877,87.73454005,KGBV TALJHARI,,20,Educational Institution,FY 18-19
+Sahibganj,25.01821031,87.83101283,KGBV UDHWA,,20,Educational Institution,FY 18-19
+Sahibganj,25.04447134,87.83847804,RAJMAHAL PS,,10,Police Station,FY 18-19
+Sahibganj,25.23620496,87.63297367, CHC Sadar,,10,Hospital,FY 18-19
+Sahibganj,25.0321313,87.59424141,CHC Boriyo,,10,Hospital,FY 18-19
+Sahibganj,24.8893206,87.61221671,CHC Barhet,,10,Hospital,FY 18-19
+Sahibganj,25.07709747,87.73810107,CHC Taljhari,,10,Hospital,FY 18-19
+Sahibganj,25.05312136,87.83518423,CHC Rajmahal ,,10,Hospital,FY 18-19
+Sahibganj,24.9693635,87.84066678,CHC Udhwa,,10,Hospital,FY 18-19
+Sahibganj,24.85464867,87.7675967,CHC Barharwa,,10,Hospital,FY 18-19
+SaraikelaKharsawan,22.81109545,86.11093653,CHC Gamharia,,10,Hospital,FY 18-19
+SaraikelaKharsawan,22.62066065,86.01229852,CHC Rajnagar,,10,Hospital,FY 18-19
+SaraikelaKharsawan,22.71141646,85.93861682,Residential Boys High School Sanjay Saraikela,,10,Educational Institution,FY 18-19
+SaraikelaKharsawan,22.83153332,86.08355403,Gamharia PS,,10,Police Station,FY 18-19
+SaraikelaKharsawan,22.85345477,86.05160382,Kandra PS,,10,Police Station,FY 18-19
+SaraikelaKharsawan,22.96544422,85.9777701,Chauka PS,,10,Police Station,FY 18-19
+SaraikelaKharsawan,22.62046507,86.01345541,Rajnagar PS,,10,Police Station,FY 18-19
+SaraikelaKharsawan,22.70191572,85.93429834,Saraikela PS,,10,Police Station,FY 18-19
+SaraikelaKharsawan,22.96920232,86.02890843,Sub-Divisional Office Chandil,,25,Govt. Buildings,FY 18-19
+SaraikelaKharsawan,22.82725306,85.75181314,CHC Kuchai,,10,Hospital,FY 18-19
+SaraikelaKharsawan,22.95834547,86.05308282,CHC Chandil,,10,Hospital,FY 18-19
+SaraikelaKharsawan,23.0042991,86.13321075,CHC Nimdih,,10,Hospital,FY 18-19
+SaraikelaKharsawan,22.78652076,85.82883138,Kharsawan PS,,10,Police Station,FY 18-19
+SaraikelaKharsawan,22.9539586,86.05451265,Chandil PS,,10,Police Station,FY 18-19
+purbaSinghbhum,22.81392898,86.2063194,"Kolhan University, purba Singhbhum",,100,Educational Institution,FY 18-19
+purbaSinghbhum,22.41309183,85.76620265,CHC Jhikpani,,10,Hospital,FY 18-19
+purbaSinghbhum,22.22114978,85.63853896,CHC Jagannathpur,,10,Hospital,FY 18-19
+purbaSinghbhum,22.21551802,85.87822834,CHC Kumardungi,,10,Hospital,FY 18-19
+purbaSinghbhum,22.09432576,85.87845206,CHC Majhgaon,,10,Hospital,FY 18-19
+purbaSinghbhum,22.46127151,85.79229011,Jhinkpani PS,,10,Police Station,FY 18-19
+purbaSinghbhum,22.80992669,86.19968954,"DC Office, purba Singhbhum",,60,Govt. Buildings,FY 18-19
+purbaSinghbhum,22.54640481,85.80658615,Sub-Divisional Office Podahat,,25,Govt. Buildings,FY 18-19
+purbaSinghbhum,22.2087682,85.64325603,Sub-Divisional Office Jagannathpur,,25,Govt. Buildings,FY 18-19
+Khunti,23.04975393,85.28596392,SP Office Khunti,,25,Govt. Buildings,FY19-20
+Bokaro,23.68734836,86.02987177," Government Polytechnic, Khutri, Bokaro",,50,Educational Institution,FY19-20
+Ranchi,23.36998892,85.44609884,"Government Mini Tool Room and Training Centre, Ranchi",,50,Educational Institution,FY19-20
+Dhanbad,23.65541515,86.47406718,"Birsa Institute of Technology, Sindri",,100,Educational Institution,FY19-20
+Hazaribag,24.02388772,85.37326455,"Vinoba Bhave University, Hazaribag",,100,Educational Institution,FY19-20
+Garhwa,24.15934366,83.79183195,"CF Office, Garhwa",,5,Govt. Buildings,FY19-20
+Ranchi,23.40746615,85.34096221,"Ranchi Science Centre, Chiraundi",,100,Educational Institution,FY19-20
+SaraikelaKharsawan,22.71023903,85.9435454,"DFO Office, Saraikela",,5,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.7308935,85.95934315,SP Office Saraikela Kharsawan,,25,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.93588283,86.13493777,"Natural Demontration Centre, Makulakocha",,25,Miscellaneous,FY19-20
+Jamtara,23.99010945,86.82903451,Jamtara Sadar Block,,10,Hospital,FY19-20
+Jamtara,23.92129582,87.0447839,Nala Block,,10,Govt. Buildings,FY19-20
+Jamtara,24.08877397,86.70372878,Karmatand Block,,10,Govt. Buildings,FY19-20
+Jamtara,24.18249361,86.99244318,Fatehpur Block,,10,Govt. Buildings,FY19-20
+Jamtara,24.06642567,86.6147454,Narayanpur Block,,10,Govt. Buildings,FY19-20
+Jamtara,23.97020885,87.16850752,Kundhit Block,,10,Govt. Buildings,FY19-20
+Jamtara,23.97114195,86.81636299,SP Office Jamtara,,25,Govt. Buildings,FY19-20
+Jamtara,23.96271422,86.79227615,"DFO Office, Jamtara",,5,Govt. Buildings,FY19-20
+Jamtara,24.06872253,86.0081908,"Forest Rest House, Jamtara",,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.79229963,86.21653668,Jamshedpur Sadar Block,,10,Hospital,FY19-20
+PashchimiSinghbhum,22.60838715,86.21288678,Potka Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.96551368,86.28208447,Bodam Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.34933785,86.58519757,Gudabandha Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.96716141,86.48818932,Patmada Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.60125009,86.39902005,Ghatsila Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.45420331,86.44966453,Dumria Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.51044414,86.46365862,Musabani Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.51203692,86.55793435,Dhalbhumgarh Block,,10,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.48876601,86.73006536,Chakulia Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.74180345,85.81655188,"Government Polytechnic, Kharsawan",,50,Educational Institution,FY19-20
+SaraikelaKharsawan,22.79218074,86.15068392," Government Polytechnic, Adityapur",,50,Educational Institution,FY19-20
+Sahibganj,25.23495788,87.63126318,Sahebganj Sadar,,10,Hospital,FY19-20
+Ranchi,23.37775244,85.28424639,"Govt Industrial Training Institute(General), Hehal Ranchi",,50,Educational Institution,FY19-20
+Ranchi,23.37951585,85.28360679,"Industrial Training Institute (Combined), Hehal Ranchi",,50,Educational Institution,FY19-20
+Kodarma,24.64321824,85.60483392,"Government Polytechnic, Kodarma",,50,Educational Institution,FY19-20
+Dumka,24.28220624,87.26952189,"Govt Industrial Training Institute, Dumka",,50,Educational Institution,FY19-20
+Jamtara,23.99063201,86.83071996,Govt Insutrila Training Institue Jamtara,,50,Educational Institution,FY19-20
+Dumka,24.29208096,87.28570511,"Government Women's Polytechnic, Dumka",,50,Educational Institution,FY19-20
+Bokaro,23.6453881,86.07691464,"Government Women's Polytechnic, Bokaro",,50,Educational Institution,FY19-20
+Ramgarh,23.64247286,85.50931288," Forest Rest House,  Ramgarh",,5,Govt. Buildings,FY19-20
+Ramgarh,23.40075903,85.80734383,"Forest Rest House,  Mandu",,5,Govt. Buildings,FY19-20
+Chatra,24.20845513,84.87318529,Chatra Sadar,,10,Hospital,FY19-20
+purbaSinghbhum,22.66766,85.62791124,Chakradharpur Block ,,10,Govt. Buildings,FY19-20
+purbaSinghbhum,22.76139489,86.20134064,Tata nagar block ,,10,Govt. Buildings,FY19-20
+purbaSinghbhum,22.81908563,86.17375735,Gudari Block,,10,Govt. Buildings,FY19-20
+purbaSinghbhum,22.15981233,85.51216185,Nowamundi Block,,10,Govt. Buildings,FY19-20
+purbaSinghbhum,22.2661725,85.76201899,Hatgamharia Block,,10,Govt. Buildings,FY19-20
+Palamu,24.03964767,84.07121158,SP Office Palamu,,25,Govt. Buildings,FY19-20
+PashchimiSinghbhum,22.82796502,86.08190145,"Government Women's Polytechnic, Jamshedpur",,50,Educational Institution,FY19-20
+purbaSinghbhum,22.52825134,85.81422628,"Govt. Industrial Training Institute, Chaibasa",,50,Educational Institution,FY19-20
+Latehar,23.74164687,84.51105505,SP Office Latehar,,25,Govt. Buildings,FY19-20
+Latehar,23.76540231,84.51068964,"Government Polytechnic, Latehar",,50,Educational Institution,FY19-20
+Latehar,23.47668081,84.27584679,"Netarhat Forest Rest House, Latehar",,15,Govt. Buildings,FY19-20
+Gumla,22.86204977,84.80056117,Basia Block,,10,Govt. Buildings,FY19-20
+Gumla,23.2679899,84.55107096,Ghagra Block,,10,Govt. Buildings,FY19-20
+Gumla,23.16838699,84.76300977,Sisai Block,,10,Govt. Buildings,FY19-20
+Simdega,22.58655463,84.51341805,"Government Polytechnic, Simdega",,50,Educational Institution,FY19-20
+Simdega,22.56955266,84.13206555,Kurdeg Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.53268661,84.22464362,Kersai Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.71052092,84.44947925,Pakartand Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.42790578,84.69793639,Bansjor Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.50041458,84.50688889,Thethaitagar Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.61312114,84.49898665,Simdega Sadar Block ,,10,Hospital,FY19-20
+Simdega,22.70974883,84.69559642,Kolebira Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.64785681,84.90982772,Bano Block ,,10,Govt. Buildings,FY19-20
+Simdega,22.61266885,84.49866051,SP Office Simdega,,25,Govt. Buildings,FY19-20
+Gumla,23.03680722,84.53724134,SP Office Gumla,,25,Govt. Buildings,FY19-20
+Kodarma,24.4397787,85.53477205,Kodarma Sadar Block,,10,Hospital,FY19-20
+Kodarma,26.59594197,86.13600086,Jaynagar Block,,10,Govt. Buildings,FY19-20
+Gumla,23.03873261,84.53357086,"DFO Office, Gumla",,10,Govt. Buildings,FY19-20
+Gumla,22.8973875,84.91938464,Kamdara Block,,10,Govt. Buildings,FY19-20
+Dhanbad,23.83552413,86.44278158,"Government Polytechnic, Dhanbad",,50,Educational Institution,FY19-20
+Dhanbad,23.80537544,86.67274489," Government Polytechnic Nirsa , Dhanbad",,50,Educational Institution,FY19-20
+Dhanbad,23.66455976,86.46728694," Government Polytechnic, Bhaga, Dhanbad",,50,Educational Institution,FY19-20
+Dhanbad,23.80760474,86.42003375,"Govt Industrial Training Institute, Dhanbad",,50,Educational Institution,FY19-20
+Dhanbad,23.79715418,86.43285938,SP Office Dhanbad,,25,Govt. Buildings,FY19-20
+Bokaro,23.61305604,86.18171059,"Govt. Industrial Training Institute, Chas Bokaro",,50,Educational Institution,FY19-20
+Bokaro,23.62705746,86.1767364,"Combined Van Bhawan Parisar, Bokaro",,15,Govt. Buildings,FY19-20
+Lohardaga,23.44131772,84.84206073,Kairo block ,,10,Govt. Buildings,FY19-20
+Kodarma,24.47475237,85.59388514,SP Office Kodarma,,25,Govt. Buildings,FY19-20
+Ramgarh,23.61417837,85.56972759,SP Office Ramgarh,,25,Govt. Buildings,FY19-20
+SaraikelaKharsawan,23.01854103,85.94235757,Ichagarh Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,23.00311007,86.13273946,Nimdih Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.91977426,86.05375232,Chandil Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.84039681,85.73857654,Kuchai Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.78244289,85.81901046,Kharwsawa Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.81407623,86.10725097,Gamharia (Adityapur) Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,23.11884133,85.98640134,Kukdu Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.61963437,86.01170172,Rajnagar (Govindpur) Block,,10,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.57479504,85.46397037,"Ranege Forest Office, Sonua",,3,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.55721664,85.69881734,Range Forest Office Barkela,,3,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.78265208,85.82387722,"Range Forest Office, Kharsawan",,3,Govt. Buildings,FY19-20
+SaraikelaKharsawan,22.9618899,86.06562937,"Range Plantation Office, Chandil",,3,Govt. Buildings,FY19-20
+Palamu,23.88785577,84.19574777,Rfo Betla National Park Residence,,2,Govt. Buildings,FY19-20
+Palamu,23.84780069,84.11714439,"Range Forest Office, Barwadih",,3,Govt. Buildings,FY19-20
+Ranchi,23.46334146,85.4552279,"Machali Ghar Birsa Zoo, Ormanjhi Ranchi",,100,Miscellaneous,FY19-20
+Ranchi,23.3002459,85.26039854,"Judicial Acedemy Jharkhand, Dhurwa Ranchi",,100,Educational Institution,FY19-20
+Ranchi,23.37839489,85.32981452,Ranchi Women's College,,50,Educational Institution,FY19-20
+Ranchi,23.38809873,85.34429968,"Government Paharmacy Institute, Ranchi",,50,Educational Institution,FY19-20
+Ranchi,23.36163462,85.33227626,"Government Polytechnic, Ranchi",,50,Educational Institution,FY19-20
+purbaSinghbhum,22.81039953,86.19966157,SP Office purba Singhbhum,,25,Govt. Buildings,FY19-20
+purbaSinghbhum,22.55006444,85.79822874,"Combined Van Bhawan Parisar, Chaibasa",,15,Govt. Buildings,FY19-20
+Hazaribag,23.99781309,85.35637474,Hazaribag Sadar,,10,Hospital,FY19-20
+Hazaribag,23.98849497,85.36650979,"Combined Van Bhawan Parisar, Hazaribag",,15,Govt. Buildings,FY19-20
+Hazaribag,24.01938603,85.37472754,"Govt Industrial Training Institute, Sunder Hazaribag",,50,Educational Institution,FY19-20
+Hazaribag,23.99737894,85.36580472,DIG Office Hazaribag,,10,Govt. Buildings,FY19-20
+Ranchi,23.37749518,85.28543124,"Govt Industrial Training Institute for Women, Hehal Ranchi",,25,Educational Institution,FY19-20
+Deoghar,24.4911875,86.69389527,Deoghar Sadar,,10,Hospital,FY19-20
+Deoghar,24.49146015,86.68315318,SP Office Deoghar,,25,Govt. Buildings,FY19-20
+Dumka,24.41215764,86.94526107,"Government Tool Room and Training Centre, Dumka",,50,Educational Institution,FY19-20
+Bokaro,23.64198082,86.15811844,SP Office Bokaro,,25,Govt. Buildings,FY19-20
+Bokaro,23.66679282,86.166097,"RCCF Office , Bokaro",,5,Govt. Buildings,FY19-20
+Bokaro,23.62125075,85.84206723," Forest Rest House,  Petarwar",,5,Govt. Buildings,FY19-20
+Ranchi,23.25485207,85.3468934,"Biodiversity Park, Namkum Ranchi",,25,Miscellaneous,FY19-20
+Ranchi,23.34285628,85.3214733,"Combined Van Bhawan Parisar, Doranda Ranchi",,50,Govt. Buildings,FY19-20
+Sahibganj,24.89146286,87.60635478,Barhet Block,,10,Govt. Buildings,FY19-20
+Sahibganj,25.07744537,87.73921523,Taljhari Block,,10,Govt. Buildings,FY19-20
+Sahibganj,24.99809412,87.83175016,Rajmahal Block,,10,Govt. Buildings,FY19-20
+Sahibganj,24.97044172,87.84188471,Udhwa Block,,10,Govt. Buildings,FY19-20
+Sahibganj,24.8580677,87.77416673,Barharwa Block,,10,Govt. Buildings,FY19-20
+Sahibganj,25.24131885,87.64958405,SP Office Sahibganj,,25,Govt. Buildings,FY19-20
+Sahibganj,25.2394506,87.63261076,DFO Office Sahibganj,,5,Govt. Buildings,FY19-20
+Sahibganj,25.21459814,87.66925661,"Government Polytechnic, Sahibganj",,50,Educational Institution,FY19-20
+Sahibganj,25.21287987,87.66720038,"Govt Industrial Training Institute, Sahibganj",,50,Educational Institution,FY19-20
+Ramgarh,23.62977899,85.70941845,"Forest Rest House,  Rajrappa",,5,Govt. Buildings,FY19-20
+Gumla,23.18806008,84.12959369,Dumri Block,,10,Govt. Buildings,FY19-20
+Gumla,22.95776175,84.45778604,Raidih Block,,10,Govt. Buildings,FY19-20
+Chatra,24.43519794,84.81276634,Range office Hunterganj,,3,Govt. Buildings,FY19-20
+Chatra,24.29336794,84.63658944,Range Office Pratappur,,3,Govt. Buildings,FY19-20
+Chatra,23.34015725,83.41861427,Ranege Office Rajpur,,3,Govt. Buildings,FY19-20
+Chatra,24.20553519,84.65179655,Range Office Kunda,,3,Govt. Buildings,FY19-20
+Chatra,24.21543874,84.86015695,DFO Office Chatra,,5,Govt. Buildings,FY19-20
+Chatra,24.21577685,84.85833798,"Forest Rest Home, Chatra",,5,Govt. Buildings,FY19-20
+Chatra,23.84805706,85.03114917,"Range Forest Office, Tandwa",,5,Govt. Buildings,FY19-20
+Chatra,24.21544853,84.86015695,DFO Residence Chatra,,5,Govt. Buildings,FY19-20
+Latehar,23.74206346,84.51573608,DFO Office Latehar,,5,Govt. Buildings,FY19-20
+Latehar,23.74183516,84.51570909,DFO Latehar Residential Office,,5,Govt. Buildings,FY19-20
+Giridih,24.31582877,85.92046831,RFO Office Giridih East/West,,10,Govt. Buildings,FY19-20
+Kodarma,24.48217898,85.59979015,"DFO Office, Kodarma",,10,Govt. Buildings,FY19-20
+Deoghar,24.51673428,86.70189105,"Khajuria Forest Rest House, Deoghar",,20,Govt. Buildings,FY19-20
+Dumka,24.2522574,87.24985991,DFO Office Dumka,,5,Govt. Buildings,FY19-20
+Dumka,23.61438487,85.52320048,Ramgarh Block,,10,Govt. Buildings,FY19-20
+Dumka,24.34992826,87.15078112,Jama Block,,10,Govt. Buildings,FY19-20
+Pakur,24.62982278,87.82054125,DFO Office Pakur,,5,Govt. Buildings,FY19-20
+Lohardaga,23.45076235,84.69792419,SP Office Lohardaga,,25,Govt. Buildings,FY19-20
+Lohardaga,23.36338541,84.78301489,Bhandra Block,,10,Govt. Buildings,FY19-20
+Lohardaga,23.51753989,84.6648325,Kisko Block,,10,Govt. Buildings,FY19-20
+purbaSinghbhum,22.15563394,85.72191951," Government Polytechnic, Jagannathpur",,50,Educational Institution,FY19-20
+PashchimiSinghbhum,22.82182598,86.18224804,"Combined Van Bhawan Parisar, Jamshedpur",,15,Govt. Buildings,FY19-20
+Gumla,23.23297412,84.89107865,Bharno Block,,10,Govt. Buildings,FY19-20
+Ranchi,23.38094615,85.32495573,"Police Control Room, Ranchi0",,50,Police Station,FY 20-21
+Giridih,24.17191481,86.32035699,SP Office Giridih,,25,Govt. Buildings,FY 20-21
+Chatra,24.20615275,84.8903236,"Chatra college,Chatra",,25,Educational Institution,FY 20-21
+Chatra,24.20872484,84.88460404,"Vikas Bhawan, Chatra",,20,Govt. Buildings,FY 20-21
+Dumka,24.25435549,87.25079361,"Combined Van Bhawan Parishar, Dumka",,20,Govt. Buildings,FY 20-21
+Dumka,24.2617961,87.25013791,"Commissioner Office, Dumka",,20,Govt. Buildings,FY 20-21
+Dumka,24.26063028,87.23212742,"Observation Home, Dumka",,10,Miscellaneous,FY 20-21
+Dumka,24.23788184,87.46751708,Sikaripara Block,,10,Govt. Buildings,FY 20-21
+Dumka,24.0461615,87.41017139,Raneshwar Block,,10,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.52828248,85.80888741,Chaibasa Block,,10,Govt. Buildings,FY 20-21
+Ranchi,23.17458559,85.57933792,"Bundu Block, Ranchi",,10,Govt. Buildings,FY 20-21
+Chatra,24.21084304,84.88320943,"Dto Office, Chatra",,10,Govt. Buildings,FY 20-21
+Chatra,24.20749112,84.88484561,Parisadan (Circuit House)  Chatra,,10,Govt. Buildings,FY 20-21
+Chatra,24.20457434,84.92510154,"Krishi Bhawan,Chatra",,10,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.20916505,85.64252036,Jagarnathpur Block,,10,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.3756208,85.20657622,Manoharpur Block,,10,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.38390835,85.73137117,Tonto Block,,10,Govt. Buildings,FY 20-21
+Ramgarh,23.5471963,85.71641428,Gola PS,,10,Police Station,FY 20-21
+Ramgarh,23.62119149,85.69340601,"PHC Chitarpur, Ramgarh",,10,Hospital,FY 20-21
+purbaSinghbhum,22.55052067,85.80666285,"ANM Training School,Sadar Hospital, Chaibasa",,40,Educational Institution,FY 20-21
+Palamu,24.04510552,84.06070499,Blood Bank Daltonganj,,10,Hospital,FY 20-21
+Ranchi,23.37866784,85.32321608,"Civil Court ,Ranchi",,100,Govt. Buildings,FY 20-21
+Hazaribag,24.01075491,85.37169186,DC Office Hazaribag,,100,Govt. Buildings,FY 20-21
+Hazaribag,24.10012085,85.42584663,"KGBV ,Ichak Hazaribag",,30,Educational Institution,FY 20-21
+purbaSinghbhum,24.00223351,85.36938474,"Police Training Institute ,Padma ",,50,Police Station,FY 20-21
+Bokaro,23.64691443,86.15203556," Zila Parishad office, Bokaro",,25,Govt. Buildings,FY 20-21
+Bokaro,23.64713794,86.15276306,"Circuit house, Bokaro",,25,Govt. Buildings,FY 20-21
+Ranchi,23.39521326,85.31399113,"Krishi Bhawan, Kanke Road,Ranchi",,50,Govt. Buildings,FY 20-21
+Ranchi,23.36844355,85.80396596,"Sili Poytechnic , Ranchi",,50,Educational Institution,FY 20-21
+Ranchi,23.31575552,85.37461132,"Jharkhand University of Technology, Namkum",,60,Educational Institution,FY 20-21
+Ranchi,23.34602799,85.36906088,"Ayush Directorate, Namkum",,40,Govt. Buildings,FY 20-21
+Ramgarh,23.54609976,85.7155548,"Gola Polytechnic, Ramgarh",,50,Educational Institution,FY 20-21
+Palamu,24.04801203,84.06829275,"Child Observation Home, Palamu",,10,Miscellaneous,FY 20-21
+Sahibganj,24.73551077,87.82684339,"Kotalpokhar PS,Sahebganj",,10,Police Station,FY 20-21
+Pakur,24.64043972,87.87548723,Mufassil P.S Pakur,,10,Police Station,FY 20-21
+Dumka,24.85472149,87.76749445,"CHC Barharwa, Sahibganj",,10,Hospital,FY 20-21
+Ranchi,23.33396001,85.32045689,"C.O. Office, Argora, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.32824797,85.37012996,"C.O. Office, Namkum, Ranchi",,10,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.68114666,85.6087333,Chakradharpur PS.,,10,Police Station,FY 20-21
+purbaSinghbhum,22.70887292,85.53905845,Karaikela PS,,10,Police Station,FY 20-21
+purbaSinghbhum,22.51196655,85.37344553,Goilkera PS,,10,Police Station,FY 20-21
+Ranchi,23.33899545,85.32185967,Doranda PS,,10,Police Station,FY 20-21
+Ramgarh,23.59273088,85.67690437,Rajrappa PS,,10,Police Station,FY 20-21
+Ramgarh,23.63933582,85.51338538,Ramgarh PS,,10,Police Station,FY 18-19
+Ranchi,23.38022496,85.31473339,"Jharcraft Building,Ranchi",,50,Govt. Buildings,FY 20-21
+Ranchi,23.38296265,85.3157641,"Election Commision Office ,Ranchi",,40,Govt. Buildings,FY 20-21
+Ranchi,23.3777029,85.32642177,"SETTLEMENT OFFICE, RANCH",,40,Govt. Buildings,FY 20-21
+Ranchi,23.37646018,85.32557851,"Building Construction Dept,Combined Building ,Ranchi",,30,Govt. Buildings,FY 20-21
+Ranchi,23.37737057,85.32500629,"Vikash Bhawan ,Ranchi",,30,Govt. Buildings,FY 20-21
+Ranchi,23.38856754,85.3403759,Govt. Women Teacher Training College Bariyatu Ranchi (Without Battery System),,30,Educational Institution,FY 20-21
+Ranchi,23.30557457,85.28634694,"J.N College, Dhurwa, Ranchi (Without Battery System)",,30,Educational Institution,FY 20-21
+Godda,24.80082712,87.20893078,"Godda College, Godda",,50,Educational Institution,FY 20-21
+Kodarma,24.4345885,85.53497437,"C.H +2 High School, Kodarma",,15,Educational Institution,FY 20-21
+Deoghar,24.48652308,86.71448501,"U S Middle School, Baswaria,Deoghar",,10,Educational Institution,FY 20-21
+Ranchi,23.38203827,85.87265234,Muri PS,,10,Police Station,FY 20-21
+Ranchi,23.37227408,85.43964095,Tatisilway PS,,10,Police Station,FY 20-21
+Dumka,24.26978115,87.24564932,"Eklavya Archery Training Center,Dumka",,50,Educational Institution,FY 20-21
+Dumka,24.28461591,87.2635617,"Dumka Engineering College,Dumka",,110,Educational Institution,FY 20-21
+Dumka,24.38060977,87.0684488,"ITI Jarmundi, Dumka",,50,Educational Institution,FY 20-21
+Bokaro,23.6798092,86.20899626,"Muffasil P.S, Chas, Bokaro",,10,Police Station,FY 20-21
+Bokaro,23.6231698,86.17853835,"Joint District Agriculture Office, Bokaro",,10,Govt. Buildings,FY 20-21
+Chatra,24.21001594,84.86154039,"SDO Office ,Chatra",,25,Govt. Buildings,FY 20-21
+Chatra,24.21453354,84.8556607,"Sadar Hospital ,Chatra",,50,Hospital,FY 20-21
+Hazaribag,23.86015698,85.08755227,Keredari PS,,10,Police Station,FY 20-21
+Hazaribag,23.84864926,85.21770399,Barkagaon PS,,10,Police Station,FY 20-21
+Hazaribag,24.01171153,85.56996364,Daru Ps,,10,Police Station,FY 20-21
+Palamu,24.03899101,84.06865259,"Civil Court, Palamu",,30,Govt. Buildings,FY 20-21
+Palamu,24.04687632,84.06744676,"Commissioner's Office, Medininagar, Palamu",,30,Govt. Buildings,FY 20-21
+Palamu,24.04972868,84.06531224,"Police Line, Medininagar, Palamu",,40,Police Station,FY 20-21
+Ranchi,23.38892256,85.27787365,Pandra PS,,10,Police Station,FY 20-21
+Ranchi,23.06481152,85.2835871,SS high School Khunti,,10,Educational Institution,FY 20-21
+PashchimiSinghbhum,22.69101273,85.60938542,"Anumandal Hospital Ghatsila, Pashchimi Singhbhum",,50,Hospital,FY 20-21
+Dhanbad,23.65763517,86.44426697,"Old Building PHC Tundi, Dhanbad",,10,Hospital,FY 20-21
+Dhanbad,23.78505028,86.39012385,"CHC Kenduadih, Dhanbad",,10,Hospital,FY 20-21
+Hazaribag,24.00624959,85.3681272,"Circuit House,Hazaribag",,25,Govt. Buildings,FY 20-21
+Hazaribag,24.0168605,85.36281055,"Sheikh Bhikari Medical College Hospital, Hazaribag.",,80,Educational Institution,FY 20-21
+Hazaribag,24.01997557,85.37076184,"University College of Engineer and Technology ,Hazaribag",,70,Educational Institution,FY 20-21
+Hazaribag,24.00257857,85.36383995,"Govt. Teachers Training College, Hazaribag",,30,Educational Institution,FY 20-21
+Giridih,24.21819405,86.30575461,"Giridih College, Giridih",,50,Educational Institution,FY 20-21
+Giridih,24.19396403,86.30338025,"R.K. Mahila College, Giridih",,30,Educational Institution,FY 20-21
+Simdega,22.61241539,84.49843632,"DC Office Block C (DRDA), Simdega",,30,Govt. Buildings,FY 20-21
+Simdega,22.61452398,84.49215015,"Mandal Jail, Simdega",,25,Govt. Buildings,FY 20-21
+Simdega,22.63955736,84.50988526,"Police Line , Simdega",,25,Police Station,FY 20-21
+Ranchi,23.40360121,85.48811245,CHC Angara,,10,Hospital,FY 20-21
+Ranchi,23.46124471,85.54796052,CHC Getalsud,,10,Hospital,FY 20-21
+Simdega,22.61410389,84.50157377,ITDA Simdega,,20,Govt. Buildings,FY 20-21
+Simdega,22.60197226,84.49548212,"Simdega College Simdega, Block- A",,20,Educational Institution,FY 20-21
+Hazaribag,23.68375714,85.36844391,Giddi PS,,10,Police Station,FY 20-21
+Hazaribag,24.09148386,85.42158895,Ichak PS,,10,Police Station,FY 20-21
+Hazaribag,24.02306695,85.74202221,Bishnugarh PS,,10,Police Station,FY 20-21
+Godda,24.82907677,87.21252224,"Mahila Colloge, Godda ( without Battery system)",,30,Educational Institution,FY 20-21
+Godda,24.83111758,87.21189979,"Inter Level High School ,Godda (without Battery System)",,20,Educational Institution,FY 20-21
+Godda,24.82774541,87.21216752,"Zila parishad Building, Godda (With Battery)",,25,Govt. Buildings,FY 20-21
+Deoghar,24.48611916,86.7077039,"SNCU Ward, Sadar Hospital, Deoghar ( with Battery)",,30,Hospital,FY 20-21
+Ranchi,23.47714548,85.60718968,Sikidiri PS,,10,Police Station,FY 20-21
+Ranchi,23.53277779,85.49928806,CHC Ormanjhi,,10,Hospital,FY 20-21
+Dhanbad,23.80441027,86.44220795,"Police Line,Dhanbad",,50,Police Station,FY 20-21
+Dhanbad,23.8029038,86.42625151,"Circuit House ,Dhanbad",,30,Govt. Buildings,FY 20-21
+Ranchi,23.39379652,85.3483753,Bariatu PS,,10,Police Station,FY 20-21
+Ranchi,23.44193374,85.3200728,"Govt. Teacher’s Training College, Ranchi",,30,Educational Institution,FY 20-21
+Ranchi,23.3374566,85.31836607,"Doranda College, Ranchi",,30,Educational Institution,FY 20-21
+Ranchi,23.38665635,85.31467539,"UTPAD BHAWAN, Kanke Road,Ranchi",,125,Govt. Buildings,FY 20-21
+Ranchi,23.377919,85.32807782,"Jharkhand Public Service Commision, Ranchi",,125,Govt. Buildings,FY 20-21
+Ranchi,23.37062455,85.32239208,"Mahila PS,Ranchi",,10,Police Station,FY 20-21
+Ranchi,23.37435755,85.32805267,"SC/ST PS,Ranchi",,10,Police Station,FY 20-21
+Hazaribag,24.30209367,85.42728627,Barhi PS,,10,Police Station,FY 20-21
+Hazaribag,24.37909319,85.26779942,Chauparan PS,,10,Police Station,FY 20-21
+Ramgarh,23.60553038,85.52090377,"Ramgarh College ,Ramgarh",,60,Educational Institution,FY 20-21
+Ramgarh,23.63684845,85.27283961,"PTPS college ,Patratu Ramgarh",,20,Educational Institution,FY 20-21
+Dumka,24.28159026,87.26573719,Refferal Animal Hospital Dumka,,10,Hospital,FY 20-21
+Ranchi,23.34370079,85.31864682,State Dispensory Doranda,,10,Hospital,FY 20-21
+Ranchi,23.38847363,85.33946224,"Govt Girls High School, Bariyatu, Ranchi",,10,Educational Institution,FY 20-21
+Ranchi,23.3396731,85.31825795,"Urban PHC, Doranda, Ranchi",,10,Hospital,FY 20-21
+purbaSinghbhum,22.5474525,85.80728756,"Commisiner Office, Chaibasa",,25,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.86716758,85.32766527,Bandgaon PS,,10,Police Station,FY 20-21
+purbaSinghbhum,22.76816132,85.44452038,Tebo PS,,10,Police Station,FY 20-21
+Ramgarh,23.65790732,85.304721,"CHC Patratu, Ramgarh",,10,Hospital,FY 20-21
+Ramgarh,23.61369446,85.57063864,"Old DDC Office, Ramgarh",,10,Govt. Buildings,FY 20-21
+Ranchi,23.42714269,85.41343872,P.S. BIT Mesra,,10,Police Station,FY 20-21
+Bokaro,23.77355574,85.90001322,"K.B.College ,Bermo",,30,Educational Institution,FY 20-21
+Bokaro,23.6871409,86.17649215,"B.S.City College , Bokaro",,60,Educational Institution,FY 20-21
+Dhanbad,23.81182487,86.41945106,"Zila School ,Dhanbad",,10,Educational Institution,FY 20-21
+Simdega,22.61241458,84.48559772,Observation Home Simdega,,10,Miscellaneous,FY 20-21
+Simdega,22.61377286,84.50004657,"District Transport Office,Simdega",,10,Govt. Buildings,FY 20-21
+Simdega,22.62100393,84.50085558,"District Agriculture Office, Simdega",,10,Govt. Buildings,FY 20-21
+Simdega,22.61323154,84.50036145,"Veer Budh Shelter Home,Simdega",,10,Miscellaneous,FY 20-21
+Simdega,22.61265495,84.49196121,"S.S+2 Boys High School,Simdega",,20,Educational Institution,FY 20-21
+Simdega,22.61613278,84.49151408,"Balika High School Hostel,Simdega",,20,Educational Institution,FY 20-21
+Simdega,22.61254094,84.49861972,"SP Office (Block -B),Simdega",,30,Govt. Buildings,FY 20-21
+Ranchi,23.41729108,85.22974599,CHC Ratu,,10,Hospital,FY 18-19
+Ranchi,23.56977074,85.13308489,CHC Burmu,,10,Hospital,FY 20-21
+Sahibganj,25.2421752,87.64003092,"Sahebganj College ,Sahebganj",,25,Educational Institution,FY 20-21
+Sahibganj,25.23233911,87.63382462,"Sandhya College ,Sahebganj",,25,Educational Institution,FY 20-21
+Sahibganj,25.22732449,87.64519148,"Civil Court , Sahebganj",,50,Govt. Buildings,FY 20-21
+Hazaribag,24.20013583,85.38986131,Padma OP,,10,Police Station,FY 20-21
+Hazaribag,24.01573952,85.34146965,Pelawal OP,,10,Police Station,FY 20-21
+Chatra,24.20903913,84.88443361,"Vikash Bhawan ,Chatra",,20,Govt. Buildings,FY 20-21
+Chatra,24.21293852,84.86113105,"District Jail,Chatra",,60,Govt. Buildings,FY 20-21
+Chatra,24.2107746,84.88328455,"District Transport Office,Chatra",,10,Govt. Buildings,FY 20-21
+Chatra,24.18460612,84.87808414,"Police Line ,Chatra",,50,Police Station,FY 20-21
+Chatra,24.2066997,84.89053789,"Chatra College ,Chatra",,40,Educational Institution,FY 20-21
+Chatra,24.20730453,84.88255638,"Zila Parishad ,Chatra",,10,Govt. Buildings,FY 20-21
+Sahibganj,25.22538035,87.64576999,"DRDA, Sahibganj",,50,Govt. Buildings,FY 20-21
+Sahibganj,25.24375543,87.64795473,"SDO Office, Sahibganj",,50,Govt. Buildings,FY 20-21
+Sahibganj,25.22550441,87.64463424,"Circuit House, Sahibganj",,25,Govt. Buildings,FY 20-21
+Dumka,24.26219888,87.24908394,"DRDA, Dumka",,50,Govt. Buildings,FY 20-21
+Pakur,24.63188097,87.79165725,"Govt. Polytechic College, Pakur",,50,Educational Institution,FY 20-21
+Ranchi,23.38144395,85.31748365,"Governor House (Rajbhawan), Ranchi",,70,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.55081528,85.80554545,"Burn unit, Sadar Hospital Chaibasa",,10,Hospital,FY 20-21
+Hazaribag,24.01496468,85.37414595,"Jharkhand Police Academy, Konar Block, Hazaribag",,50,Police Station,FY 20-21
+Hazaribag,24.16626196,85.62465707,Barkatha PS,,10,Police Station,FY 20-21
+Hazaribag,24.19974439,85.38994714,Padma OP,,10,Police Station,FY 20-21
+Hazaribag,23.98447164,85.29526089,Katkamdag PS,,10,Police Station,FY 20-21
+Dhanbad,23.79950214,86.43439771,"Sadar Hospital, Dhanbad",,30,Hospital,FY 20-21
+Hazaribag,24.33992385,85.39261754,"Sub-Jail, Barhi, Hazaribag",,50,Govt. Buildings,FY 20-21
+Hazaribag,24.01769468,85.37490891,"Homeguard Office, Sindoor, Hazaribag",,40,Govt. Buildings,FY 20-21
+Latehar,23.74398061,84.48629602,"Gandhi Inter College, Latehar",,10,Educational Institution,FY 20-21
+Latehar,23.75028588,84.49286418,"DTO Office, Latehar",,10,Govt. Buildings,FY 20-21
+Ranchi,23.37647176,85.32167876,Civil Court (40 Court Building) Ranchi,,100,Govt. Buildings,FY 20-21
+Ranchi,23.37756349,85.32153985,Civil Court (CBI Court Building) Ranchi,,100,Govt. Buildings,FY 20-21
+Khunti,23.05035992,85.28639532,"DC Office, Khunti",,100,Govt. Buildings,FY 20-21
+Ranchi,23.43377869,85.31342515,"RINPASS, Female Ward, Kanke, Ranchi",,50,Hospital,FY 20-21
+PashchimiSinghbhum,22.5505536,85.80580674,"Sadar Hospital Chaibasa, Emergency Building",,50,Hospital,FY 20-21
+PashchimiSinghbhum,22.81265227,86.20158246,"Commercial Tax Office Building, Jamshedpur",,50,Govt. Buildings,FY 20-21
+Khunti,23.05881033,85.28341272,"Sadar Hospital, Khunti",,30,Hospital,FY 20-21
+Khunti,22.98046501,85.27827051,"CHC Murhu, Khunti",,10,Hospital,FY 20-21
+Bokaro,23.80099551,85.81950262,"CHC Gomia, Bokaro",,10,Hospital,FY 20-21
+Ranchi,23.34326174,85.3711788,"State Food Testing Laboratary & State Durgs Testing Laboratary Namkum, Ranchi",,100,Hospital,FY 20-21
+Ranchi,23.31568423,85.37458989,"Jharkhand University of Technology old Building , Ranchi",,30,Educational Institution,FY 20-21
+Palamu,24.36983567,84.18949753,"Sub Divisional Hospital Chhatarpur, Palamu",,50,Hospital,FY 20-21
+Palamu,24.53131873,83.99992885,Sub Divisional Hospital Husainabad Palamu,,50,Hospital,FY 20-21
+Palamu,24.53063829,84.00767721,"ITI Husainabad, Palamu",,30,Educational Institution,FY 20-21
+Palamu,24.38794545,84.22890656,"ITI Chhatarpur, Palamu",,30,Educational Institution,FY 20-21
+Palamu,24.12960267,83.83181944,ITI Garhwa,,30,Educational Institution,FY 20-21
+Palamu,24.11563691,83.83581158,Garhwa Polytechnic,,30,Educational Institution,FY 20-21
+Palamu,24.03977744,84.07015892,"Bandobast Office Medninagar, Palamu",,40,Govt. Buildings,FY 20-21
+Palamu,24.36935262,84.18809139,"P.S Chhatarpur, Palamu",,10,Police Station,FY 20-21
+Palamu,24.04399963,84.21017717,"P.S Lesiliganj, Palamu",,10,Police Station,FY 20-21
+Palamu,24.01467322,84.05125024,"CHC Chainpur, Palamu",,10,Hospital,FY 20-21
+Garhwa,24.17884496,83.70992024,"CHC Meral, Garhwa",,10,Hospital,FY 20-21
+Palamu,24.01601438,84.05140937,"PHC Jamuney, Medninagar, Palamu",,10,Hospital,FY 20-21
+Palamu,24.53164598,84.00010485,"PHC Beghanpura, Hussainabad, Palamu",,10,Hospital,FY 20-21
+Hazaribag,24.37962833,85.2524766,"PHC, Chauparan, Hazaribag",,10,Hospital,FY 20-21
+Hazaribag,23.79028409,85.52019321,"Rajkiya Ausuchit Janjati Awasiya Vidhyalaya, Mandu, Ramgarh",,10,Educational Institution,FY 20-21
+Ranchi,23.36247955,85.79660237,"FRU, Silli, Ranchi",,10,Miscellaneous,FY 20-21
+Ranchi,23.37471863,85.85520856,"APHC, Patrathu, Silli, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.34708143,85.8713583,"APHC, Rangamati, Silli, Ranchi",,10,Hospital,FY 20-21
+Palamu,26.60306079,80.22338792,PHC Panki Daltonganj,,10,Hospital,FY 20-21
+Palamu,21.774036,82.33870937,"APHC Loharsi, Daltonganj",,10,Hospital,FY 20-21
+purbaSinghbhum,22.38244786,85.73141524,"CHC Tonto, purba Singhbhum",,10,Hospital,FY 20-21
+purbaSinghbhum,22.56325453,85.80965434,"One Stop Sakhi Point, Sadar Hospital, Chaibasa",,10,Hospital,FY 20-21
+purbaSinghbhum,22.55096854,85.80540575,"Administration Building, Sadar Hospital, Chaibasa",,50,Hospital,FY 20-21
+purbaSinghbhum,22.5495705,85.8060175,"District Vaccination House, Sadar Hospital Chaibasa",,30,Hospital,FY 20-21
+Godda,24.68024285,87.17764828,"PHC, Poreiyahaat, Godda",,10,Hospital,FY 20-21
+Godda,24.85250936,87.33716878,"PHC, Sundarpahari, Godda",,10,Hospital,FY 20-21
+Godda,25.19596215,87.28159389,"APHC Kotalpokhar, Godda",,10,Hospital,FY 20-21
+Dhanbad,23.79768982,86.43492046,Civil Court Dhanbad,,100,Govt. Buildings,FY 20-21
+PashchimiSinghbhum,22.6109799,86.46342219,SDO Office Ghatshila,,50,Govt. Buildings,FY 20-21
+PashchimiSinghbhum,22.52147107,86.46122705,"PHC Chakulia, Pashchimi Singhbhum",,10,Hospital,FY 20-21
+Ranchi,23.3157491,84.94849362,"APHC, Tuko, Bero, Ranchi",,10,Hospital,FY 20-21
+Lohardaga,23.44128501,84.68332926,"KGBV, Kisko, Lohardaga",,30,Educational Institution,FY 20-21
+Ranchi,"23.40366288316464,",85.48810891,"CHC, Angara, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.36960899,85.63345126,"PHC, Getalsud, Angara, Ranchi",,10,Hospital,FY 20-21
+Ranchi,"23.54388800854595,",85.50121661,"PHC, Ormanjhi, Ranchi",,10,Hospital,FY 20-21
+Gumla,23.13728671,84.23991267,"SDO Chainpur,Gumla",,50,Govt. Buildings,FY 20-21
+Ranchi,23.50540179,84.97507347,"PHC, Chanho, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.30361296,85.01426966,"PHC, Bero, Ranchi",,10,Hospital,FY 20-21
+Simdega,22.69851187,84.69378874,"CHC, Kolebera, Simdega",,10,Hospital,FY 20-21
+Simdega,22.69900677,84.6934776,"PHC, Lachragarh, Kolebera, Simdega",,10,Hospital,FY 20-21
+SaraikelaKharsawan,"22.573908695918433,",85.91017988,"PHC Chliyama, Rajnagar, Saraikela-kharsawan",,10,Hospital,FY 20-21
+SaraikelaKharsawan,22.65190497,86.06721694,"PHC Govindpur, Rajnagar, Saraikela Kharsawan",,10,Hospital,FY 20-21
+SaraikelaKharsawan,22.79151852,85.82883783,"CHC Kharsawan, Sarikela Kharsawan",,10,Hospital,FY 20-21
+Dumka,"24.279656247791383,",87.26474463,"S.P College, Dumka (Main Building)",,100,Educational Institution,FY 20-21
+Dumka,24.27994251,87.26456011,"S.P College, Dumka (IGNOU Building)",,100,Educational Institution,FY 20-21
+Jamtara,24.27854421,87.26301432,S.P College (B.Ed Building),,10,Educational Institution,FY 20-21
+Jamtara,23.94353008,86.71325983,"HSC Dhobna, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,23.9660797,86.79935994,"HSC Neemadih, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,23.96441332,86.80103382,"HSC Phopnad, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,23.88446222,86.84215013,"HSC Pialsola, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,24.09558464,86.96033941,"HSC Rampur, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,24.49235075,85.67662297,"HSC Ruapidhi, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,23.44390386,87.60557181,"HSC Sakalpur, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,23.92618246,86.81763268,"HSC Santhalpipla, Jamtara",,10,Educational Institution,FY 20-21
+Jamtara,24.07776373,86.7651585,"HSC Uparbhitra, Jamtara",,10,Educational Institution,FY 20-21
+Dumka,24.2624784,87.2479209,P.S Masliya Dumka,,10,Police Station,FY 20-21
+Gumla,22.86748616,84.77559365,"Aklabya Model residential School Basia, Gumla",,20,Educational Institution,FY 20-21
+Gumla,22.90371945,84.91919333,"CO Office Kamdara, Gumla",,10,Govt. Buildings,FY 20-21
+Gumla,22.86621451,84.81587333,"CO Office Basia, Gumla",,10,Govt. Buildings,FY 20-21
+purbaSinghbhum,22.55057376,85.80483329,Blood Bank Sadar Hospital Chaibasa,,10,Hospital,FY 20-21
+purbaSinghbhum,22.59871876,86.4805179,"Postmartom House, Chakardharpur",,10,Hospital,FY 20-21
+PashchimiSinghbhum,22.4877161,86.70643021,PHC Chakulia,,10,Hospital,FY 20-21
+Ramgarh,23.61654628,85.52216474,"PHC-Ramgarh, Ramgarh Sadar, Ramgarh",,10,Hospital,FY 20-21
+Ramgarh,"23.640513274004785,",85.51346383,"ST/SC P.S. Ramgarh Sadar, Ramgarh",,10,Hospital,FY 20-21
+Ramgarh,23.63013345,85.51774258,"CHC, Refferal Hospital, Mandu, Ramgarh",,10,Hospital,FY 20-21
+Ramgarh,23.65448648,85.51577834,Mahila P.S. Ramgarh,,10,Police Station,FY 20-21
+Ramgarh,23.80846037,85.46994559,"CHC, Mandu, Ramgarh",,10,Hospital,FY 20-21
+Hazaribag,23.89124073,85.08933824,"PHC Keredari, Hazaribag",,10,Hospital,FY 20-21
+Simdega,22.50542069,85.03596604,"PHC, Hurda, Bano, Simdega",,10,Hospital,FY 20-21
+Simdega,22.56675037,84.13069255,"PHC, Kurudeg, Simdega",,10,Hospital,FY 20-21
+Lohardaga,"23.36384206473954, ",84.78205513,"PHC Bhandra, Lohardaga",,10,Hospital,FY 20-21
+Lohardaga,23.38361079,84.65172231,"PHC Senha, Lohardaga",,10,Hospital,FY 20-21
+Giridih,24.19037282,86.30341467,"SDO Office, Khorimahuwa Giridih",,50,Govt. Buildings,FY 20-21
+Giridih,24.18876096,86.3062019,"MCH Sadar Hospital Chaitadih, Giridih",,50,Hospital,FY 20-21
+Giridih,24.27417132,86.38125911,KVK Giridih,,25,Educational Institution,FY 20-21
+Giridih,24.21225162,86.25794093,"PHC Bengabad, Giridih",,10,Hospital,FY 20-21
+Giridih,24.29278735,85.92997391,"PHC Birni, Giridih",,10,Hospital,FY 20-21
+Giridih,24.54412769,86.19192914,"PHC Deori, Giridih",,10,Hospital,FY 20-21
+Giridih,24.00008684,85.99921731,"Referral Dumri, Giridih",,10,Hospital,FY 20-21
+Giridih,24.1841301,86.44629647,"PHC Gandey, Giridih",,10,Hospital,FY 20-21
+Giridih,24.63495557,85.91666947,"PHC Gawan, Giridih",,10,Hospital,FY 20-21
+Giridih,24.37188835,86.14947125,"PHC Jamua, Giridih",,10,Hospital,FY 20-21
+Giridih,24.40344881,85.97903335,"Referral Rajdhanwar, Giridih",,10,Hospital,FY 20-21
+Giridih,24.21091376,86.25257346,"PHC Tisri, Giridih",,10,Hospital,FY 20-21
+Giridih,24.07792221,85.83236924,P.S. BAGODAR,,10,Police Station,FY 20-21
+Giridih,24.17349726,85.8841181,P.S. SARIYA,,10,Police Station,FY 20-21
+Giridih,24.65572196,86.00508739,P.S. LOKAINAYANPUR,,10,Police Station,FY 20-21
+Giridih,24.60791879,86.22273115,P.S. BHELWAGHATI,,10,Police Station,FY 20-21
+Giridih,25.14676151,85.83797719,P.S. MAHILA PS,,10,Police Station,FY 20-21
+Giridih,24.22168217,86.28557604,P.S. PACAMBA,,10,Police Station,FY 20-21
+Giridih,24.18804802,86.30643791,"OPD Old Sadar Hospital Tower Chowk, Giridih",,10,Hospital,FY 20-21
+Giridih,23.8495214,86.04220568,"P.S. Nawadiha, Giridih",,10,Police Station,FY 20-21
+Lohardaga,23.42124424,84.69235925,"KGBV Bhandra, Lohardaga",,25,Educational Institution,FY 20-21
+Hazaribag,24.41833662,85.24781527,"CHC Chouparan, Hazaribag",,25,Hospital,FY 20-21
+Kodarma,24.24150459,85.3756116,"PHC Jainagar, Kodarma",,10,Hospital,FY 20-21
+Kodarma,24.47557618,85.68092316,"Referral Hospital Domchanch, Kodarma",,10,Hospital,FY 20-21
+Ranchi,23.19486231,85.69541469,"PHC Sonahatu, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.37765525,85.32508924,"C.O Office, Ranchi Sadar",,10,Hospital,FY 20-21
+Ranchi,23.37854252,85.32520853,"C.O Office, Hehal, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.35096516,85.30529581,"CHC Doranda, Ranchi",,10,Hospital,FY 20-21
+Simdega,22.6109215,85.05101065,"ST-SC Boys Residential Middle School Hatinghore, Bano, Simdega",,25,Educational Institution,FY 20-21
+Simdega,22.61437118,84.49335111,"Adiwasi Balika Chatrawas, Simdega",,25,Educational Institution,FY 20-21
+SaraikelaKharsawan,23.00417286,86.13299425,"CHC Nimdih, Saraikela-kharsawan",,10,Hospital,FY 20-21
+Godda,24.82634227,87.2130816,"Civil Surgeon Office, Godda",,20,Govt. Buildings,FY 20-21
+Godda,24.94213456,87.17163703,"Jharkhand Balika Awasiya Vidhyalaya, Basant Rai Godda",,30,Educational Institution,FY 20-21
+Godda,24.82631544,87.21520518,"DIS Fisheries Office, Godda",,10,Govt. Buildings,FY 20-21
+Godda,24.88859312,87.20616845,"PHC Rupuchak, Godda",,10,Hospital,FY 20-21
+Godda,24.82460995,87.21135191,"District Industry Center, Godda",,10,Govt. Buildings,FY 20-21
+Godda,24.82701596,87.21401467,"Nagar Parishad Office, Godda",,10,Govt. Buildings,FY 20-21
+Simdega,22.44154539,84.34180723,"PHC, Bolba, Simdega",,10,Hospital,FY 20-21
+Simdega,22.57479817,84.80831425,"PHC, Jaldega, Simdega",,10,Hospital,FY 20-21
+Bokaro,23.68109231,86.15551261,"PHC, Pindajori, Chas, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.61322486,86.17795783,"Sub Divisional Hospial, Chas",,10,Hospital,FY 20-21
+Bokaro,23.5697323,86.37696226,Block office Chandankiyari,,10,Govt. Buildings,FY 20-21
+Gumla,23.03819107,84.53719574,"Civil Court , Gumla",,100,Govt. Buildings,FY 20-21
+Gumla,"23.038339792560944,",84.53762466,"SDO Sadar , Gumla",,50,Hospital,FY 20-21
+Ranchi,"23.4010122927295,",85.47267774,"ITI Angara, Ranchi",,50,Educational Institution,FY 20-21
+Ranchi,23.41700094,85.23087937,"CO Office, Ratu, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.32432692,85.18123679,"CO Office,Nagari, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.37918617,85.32440858,"CO Office,Mandar, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.50643581,84.97881355,"CO Office,Chanho, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.65746844,85.00490607,"CO Office,Khalari, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.39162354,85.32497238,"CO Office,Burmu, Ranchi",,10,Govt. Buildings,FY 20-21
+Ranchi,23.35232568,85.12294065,"CO Office, Itki, Ranchi",,10,Govt. Buildings,FY 20-21
+Gumla,23.26736438,84.55222778,"CHC Ghaghra, Gumla",,10,Hospital,FY 20-21
+Gumla,23.37709629,84.38547276,"CHC Bishunpur, Gumla",,10,Hospital,FY 20-21
+Gumla,22.95309492,84.45326136,"CHC Raidih, Gumla",,10,Hospital,FY 20-21
+Gumla,23.24181443,84.88380336,"CHC Bharno, Gumla",,10,Hospital,FY 20-21
+Gumla,23.04453354,84.53781771,CHC Gumla Sadar,,10,Hospital,FY 20-21
+Gumla,22.90663418,84.91832988,"PS Kamdara, Gumla",,10,Police Station,FY 20-21
+Gumla,22.87157829,84.82107348,"PS Basia, Gumla",,10,Police Station,FY 20-21
+Gumla,23.04728518,84.53950963,"PS Bharno, Gumla",,10,Police Station,FY 20-21
+Gumla,23.1729685,84.75218304,"PS Sisai, Gumla",,10,Police Station,FY 20-21
+Bokaro,23.64225105,86.16244908,"CHC Petarwar, Bokaro",,10,Hospital,FY 20-21
+Lohardaga,23.41840889,84.69201593,"KGBV, Kudu, Lohardaga",,20,Educational Institution,FY 20-21
+Lohardaga,23.44423982,84.6854928,"KGBV, Kisko, Lohardaga",,20,Educational Institution,FY 20-21
+Chatra,24.07734515,84.73578634,"PHC Mayurhand, Chatra",,10,Hospital,FY 20-21
+PashchimiSinghbhum,22.58114789,86.48237283,"P.S Galudih, Ghatshila, Pashchimi Singhbhum",,10,Police Station,FY 20-21
+Ranchi,23.26486634,85.30456451,"P.S Tupudana, Ranchi",,10,Police Station,FY 20-21
+Ranchi,23.32299691,85.37877049,"PHC, Namkom, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.51441463,85.17368933,"PHC, Ratu, Ranchi",,10,Hospital,FY 20-21
+Ramgarh,23.68901979,85.25145193,"PHC, Patratu, Ramgarh",,10,Hospital,FY 20-21
+Ranchi,23.43528405,85.31749471,"PHC, Kanke, Ranchi, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.57078704,85.13318703,"PHC, Burmu, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.5698414,85.13308284,"APHC, Makluskingganj, Burmu, Ranchi",,10,Hospital,FY 20-21
+Ranchi,23.51535907,85.17180104,"PHC, Ratu, Ranchi",,10,Hospital,FY 20-21
+SaraikelaKharsawan,23.03148938,85.94087892,PHC Ichagarh Saraikela-Kharsawan,,10,Hospital,FY 20-21
+Hazaribag,23.99636218,85.3635881,Civil Court Hazaribag Block A,,100,Govt. Buildings,FY 20-21
+Hazaribag,23.99636218,85.3635881,Civil Court Hazaribag Block B,,100,Govt. Buildings,FY 20-21
+Bokaro,23.51289286,85.92034279,"PhC Karma (Purnadih), Kasmar, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.76827359,85.93416395,"CHC Bermo, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.78110749,85.96709995,"UPHC Dhori Bermo, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.44497001,85.31348207,"PHC Ranchi Dhaura, Bermo, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.84116695,86.51597142,"CHC Govindpur, Phae-II, Bermo, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.78160814,85.94591511,"PHC Barigram, Gandhinagar, Bermo, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.7581648,86.14076895,"Add PHC Ratari Bermo, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.80464471,85.81149726,"HSC Kander, Gomia, Bokaro",,10,Educational Institution,FY 20-21
+Bokaro,23.66532398,86.01597275,"PHC / HSC Paturia, Jaridih, Bokaro",,10,Hospital,FY 20-21
+Bokaro,23.64485051,86.16615872,"CHC Jaridih, Bokaro ",,10,Hospital,FY 20-21
+Bokaro,23.64289551,86.15853242,"Civil Court, Bokaro ",,100,Govt. Buildings,FY 20-21
+Bokaro,23.43360061,85.31339951,"RINPAS, Ranchi",,50,Hospital,FY 20-21
+Ranchi,23.41632769,85.25731162,"STF Jaguar, Ranchi",,100,Govt. Buildings,FY 20-21
+Ranchi,23.30053168,85.26048437,"Judicial Academy, Ranchi",,100,Govt. Buildings,FY 20-21
+PashchimiSinghbhum,22.81153553,86.21272754,"Civil Court, Jamshedpur",,100,Govt. Buildings,FY 20-21
+PashchimiSinghbhum,23.30177296,85.28914291,Rajaswa Parishad Office,,30,Govt. Buildings,FY 20-21
+Bokaro,23.81574976,86.06606023,"CHC Nawadih, Bokaro",,50,Hospital,FY 20-21
+Bokaro,23.83333511,86.52086756,"CHC Govindpur, Dhanbad",,20,Hospital,FY 20-21
+Bokaro,23.78676583,86.70189571,PHC Beragaria-2 Nirsa Dhanbad,,20,Hospital,FY 20-21
+Bokaro,23.74368376,86.7950533,"PHC Chirunda, Nirsa, Dhanbad",,20,Hospital,FY 20-21
+Bokaro,23.80809619,86.43374323,"CHC Sadar, Dhanbad",,10,Hospital,FY 20-21
+Gumla,23.39103905,84.3965325,Kasturba Gandhi Balika Vidyalaya Ghaghra Gumla,,50,Educational Institution,FY 20-21
+Sahibganj,25.05329039,87.83750621,"SDO, Rajmahal, Sahibganj",,50,Govt. Buildings,FY 20-21
+Sahibganj,25.23591731,87.66157572,"Krishi Vigyan Kendra, Sahibganj",,30,Educational Institution,FY 20-21
+Sahibganj,25.24428565,87.63179051,"Town Police Station, Sahibganj",,10,Police Station,FY 20-21
+Sahibganj,25.25161063,87.58167117,"Muffasil Police Station, Sahibganj",,10,Police Station,FY 20-21
+Sahibganj,25.23989927,87.65138136,"Borio Police Station, sahibganj",,10,Police Station,FY 20-21
+Sahibganj,25.23965914,87.6512149,Mirzachowki Police Station Sahibganj,,10,Police Station,FY 20-21
+Sahibganj,25.13255685,87.65864209,"PHC Banjhi, Sahibganj",,10,Hospital,FY 20-21
+Sahibganj,25.13322597,87.65807146,"Health Sub Center Paharpur, Sahibganj",,10,Hospital,FY 20-21
+Chatra,23.95460744,85.40654176,"Aashram Residential School,Simaliya Chatra",,25,Educational Institution,FY 20-21
+Chatra,24.38070407,85.50539583,"Jharkhand Balika Awasiya Vidhyalaya, Mayurhand, Chatra",,30,Educational Institution,FY 20-21
+Chatra,24.29171662,85.15138314,"PHC Itkhori, Chatra",,20,Hospital,FY 20-21
+Chatra,24.31424528,85.00032115,"PHC Hunterganj, Chatra",,20,Hospital,FY 20-21
+Chatra,24.20318581,84.92491584,"KVK ,Chatra",,10,Educational Institution,FY 20-21
+Chatra,24.44522951,84.58964902,"Addl.PHC Jori, Hunterganj, Chatra",,10,Hospital,FY 20-21
+Deoghar,24.49318495,86.68273882,"Civil Court ,Deoghar",,100,Govt. Buildings,FY 20-21
+Deoghar,24.29359706,86.63762948,"Madhupur Referral Hospital, Deoghar",,80,Hospital,FY 20-21
+Deoghar,24.54433212,86.68604114,"PHC Baghmara, Deoghar",,10,Hospital,FY 20-21
+Ranchi,23.310678,85.30160133,"Animal Husbandry,  Ranchi ",,100,Hospital,FY 20-21
+Lohardaga,23.24175243,84.88822021,"KGBV,Bharno, Lohardaga",,30,Educational Institution,FY 20-21
+Ranchi,23.357651,85.24586198,"Institute of Forest Productivity, Lalgutuwa, Ranchi",,50,Educational Institution,FY 20-21
+Hazaribag,23.84074956,84.92539388,"PHC, Barkagaon, Hazaribag",,10,Hospital,FY 20-21
+Hazaribag,23.79426511,84.93844023,"PHC, Keradari , Barkagaon, Hazaribag",,10,Hospital,FY 20-21
+purbaSinghbhum,22.54657313,85.80651638,"Civil Court, Chaibasa",,100,Govt. Buildings,FY 20-21
+Gumla,23.03837929,84.53758175,"SDO Office Basia,Gumla",,50,Govt. Buildings,FY 20-21
+Ranchi,23.40348308,85.48807491,"CHC Angara,Ranchi",,50,Hospital,FY 20-21
+Hazaribag,24.0146903,85.37409768,"Jhakrhand Police Academy, Hazaribag",,30,Police Station,FY 20-21
+Gumla,22.86200199,84.80731271,"Refferel Hospital, Basia, Gumla",,20,Hospital,FY 20-21
